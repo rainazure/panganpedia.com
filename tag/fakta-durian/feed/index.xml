@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fakta durian | Panganpedia</title>
+	<atom:link href="/tag/fakta-durian/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/fakta-durian/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:19:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>fakta durian | Panganpedia</title>
+	<link>/tag/fakta-durian/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fakta Durian, Sang Buah Eksotis Yang Eksklusif</title>
+		<link>/myth-or-fact/fakta-durian/</link>
+					<comments>/myth-or-fact/fakta-durian/#respond</comments>
+		
+		<dc:creator><![CDATA[Laela Nur Rokhmah]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2016 04:05:29 +0000</pubDate>
+				<category><![CDATA[Myth or Fact]]></category>
+		<category><![CDATA[durian]]></category>
+		<category><![CDATA[durian diabetes]]></category>
+		<category><![CDATA[durian kolesterol]]></category>
+		<category><![CDATA[durian tinggi lemak]]></category>
+		<category><![CDATA[fakta durian]]></category>
+		<category><![CDATA[kandungan durian]]></category>
+		<category><![CDATA[kandungan lemak durian]]></category>
+		<category><![CDATA[mitos durian]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1217</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Siapa tidak kenal buah yang satu ini? Dengan hanya mencium baunya, bagi penikmat, akan menelan ludah karenanya. Namun bagi yang tidak menyukai, akan membuat pusing kepala. Yah, buah durian (Durio zibenthinus Murr.) pada bulan-bulan ini sangat mudah didapatkan. Karena buah ini akan memasuki musim panen antara bulan Januari-Febuari. Informasi lain adalah, Indonesia merupakan [&#8230;]</p>
+<p>The post <a href="/myth-or-fact/fakta-durian/">Fakta Durian, Sang Buah Eksotis Yang Eksklusif</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/myth-or-fact/fakta-durian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

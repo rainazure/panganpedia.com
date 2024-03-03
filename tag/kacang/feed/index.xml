@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kacang | Panganpedia</title>
+	<atom:link href="/tag/kacang/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/kacang/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Mon, 25 Sep 2023 03:39:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>kacang | Panganpedia</title>
+	<link>/tag/kacang/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tentang Koro Benguk: Isu Sianida dan Tabir Kebenarannya</title>
+		<link>/pangan-lokal/manfaat-koro-benguk/</link>
+					<comments>/pangan-lokal/manfaat-koro-benguk/#comments</comments>
+		
+		<dc:creator><![CDATA[Lulis Almunifa]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2016 05:27:31 +0000</pubDate>
+				<category><![CDATA[Pangan Lokal]]></category>
+		<category><![CDATA[asam sianida]]></category>
+		<category><![CDATA[hcn]]></category>
+		<category><![CDATA[kacang]]></category>
+		<category><![CDATA[kacang-kacangan]]></category>
+		<category><![CDATA[koro benguk]]></category>
+		<category><![CDATA[manfaat koro benguk]]></category>
+		<category><![CDATA[racun sianida dalam makanan]]></category>
+		<category><![CDATA[sianida]]></category>
+		<category><![CDATA[sianida dalam makanan]]></category>
+		<category><![CDATA[tempe koro benguk]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1239</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Koro benguk (Mucuna pruriens) belum begitu dikenal secara luas meskipun sudah dimanfaatkan oleh sebagian penduduk di pulau Jawa khususnya Jawa Tengah dan Jawa Barat. Warna bijinya abu-abu, hitam, coklat atau berbercak-bercak. Tanaman ini cukup potensial untuk dikembangkan karena selain dapat memperbaiki struktur tanah serta meningkatkan pendapatan rakyat, juga dapat digunakan sebagai pupuk hijau [&#8230;]</p>
+<p>The post <a href="/pangan-lokal/manfaat-koro-benguk/">Tentang Koro Benguk: Isu Sianida dan Tabir Kebenarannya</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/pangan-lokal/manfaat-koro-benguk/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Keseringan Makan Kacang-Kacangan, Hati-Hati Resiko Ini!</title>
+		<link>/ilmu-pangan/kacang-kacangan-penyebab-asam-urat/</link>
+					<comments>/ilmu-pangan/kacang-kacangan-penyebab-asam-urat/#comments</comments>
+		
+		<dc:creator><![CDATA[Riski Ayu Anggreini]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2016 10:48:57 +0000</pubDate>
+				<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[asam urat]]></category>
+		<category><![CDATA[kacang]]></category>
+		<category><![CDATA[kacang tanah]]></category>
+		<category><![CDATA[kacang-kacangan]]></category>
+		<category><![CDATA[koro pedang]]></category>
+		<category><![CDATA[purin]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=666</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Makan cemilan di depan televisi tentu sudah jadi rutinitas Anda kala santai setelah lelah berada di luar rumah. Apa cemilan yang biasa Anda makan? Apakah kacang-kacangan jadi cemilan favorit Anda? Mengkonsumsi kacang-kacangan sangat baik bagi tubuh, terutama karena kandungan proteinnya yang cukup tinggi. Kacang tanah misalnya, mengandung protein sebesar 28% (Litbang, 2012). Kacang-kacangan [&#8230;]</p>
+<p>The post <a href="/ilmu-pangan/kacang-kacangan-penyebab-asam-urat/">Keseringan Makan Kacang-Kacangan, Hati-Hati Resiko Ini!</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ilmu-pangan/kacang-kacangan-penyebab-asam-urat/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

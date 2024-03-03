@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>packaging | Panganpedia</title>
+	<atom:link href="/tag/packaging/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/packaging/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 05 Nov 2016 03:01:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>packaging | Panganpedia</title>
+	<link>/tag/packaging/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Food Labeling di Negeri Sakura</title>
+		<link>/asal-kamu-tahu/food-labeling-di-negeri-sakura/</link>
+					<comments>/asal-kamu-tahu/food-labeling-di-negeri-sakura/#comments</comments>
+		
+		<dc:creator><![CDATA[Nia Amilia]]></dc:creator>
+		<pubDate>Sat, 05 Nov 2016 02:03:44 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[food labeling]]></category>
+		<category><![CDATA[japan]]></category>
+		<category><![CDATA[kemasan]]></category>
+		<category><![CDATA[packaging]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1558</guid>
+
+					<description><![CDATA[<p>Ada beberapa orang yang selalu dengan teliti mengecek label makanan yang tertera di balik kemasan makanan. Ada juga tipikal orang yang asalkan kemasan menarik dan terlihat enak, langsung saja comot menuju keranjang belanjaan. Nah, anda tipikal yang mana ? Berbicara masalah label dan kemasan makanan, setiap negara memiliki kebijakan tersendiri. Dan di artikel kali ini [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/food-labeling-di-negeri-sakura/">Food Labeling di Negeri Sakura</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/food-labeling-di-negeri-sakura/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

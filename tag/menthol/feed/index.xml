@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>menthol | Panganpedia</title>
+	<atom:link href="/tag/menthol/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/menthol/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:17:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>menthol | Panganpedia</title>
+	<link>/tag/menthol/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Oh, Jadi Ini Penyebab Dingin Setelah Makan Permen Mint</title>
+		<link>/asal-kamu-tahu/dingin-setelah-makan-permen-mint/</link>
+					<comments>/asal-kamu-tahu/dingin-setelah-makan-permen-mint/#respond</comments>
+		
+		<dc:creator><![CDATA[Lady Stephanie]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2015 11:52:05 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[dingin]]></category>
+		<category><![CDATA[menthol]]></category>
+		<category><![CDATA[mint]]></category>
+		<category><![CDATA[permen]]></category>
+		<category><![CDATA[reseptor]]></category>
+		<category><![CDATA[syaraf]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=641</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Ketika merasakan nyeri di kaki atau tangan, cobalah oleskan minyak kayu putih pada bagian yang nyeri. Seketika bagian yang dioleskan minyak kayu putih menjadi sedikit mati rasa, dan rasa nyeri pun hilang. Kok bisa, ya? Menthol adalah salah satu senyawa alam yang menimbulkan efek sensasi dingin ketika menyentuh kulit. Menthol, atau yang biasa [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/dingin-setelah-makan-permen-mint/">Oh, Jadi Ini Penyebab Dingin Setelah Makan Permen Mint</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/dingin-setelah-makan-permen-mint/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

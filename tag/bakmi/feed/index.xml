@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bakmi | Panganpedia</title>
+	<atom:link href="/tag/bakmi/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/bakmi/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Thu, 14 Dec 2017 23:58:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>bakmi | Panganpedia</title>
+	<link>/tag/bakmi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bir 0% Alkohol dan Bir Pletok, Apakah Halal?</title>
+		<link>/pangan-lokal/rootbeer-halal-atau-haram/</link>
+					<comments>/pangan-lokal/rootbeer-halal-atau-haram/#comments</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2017 05:27:12 +0000</pubDate>
+				<category><![CDATA[Pangan Lokal]]></category>
+		<category><![CDATA[anggur]]></category>
+		<category><![CDATA[bahan baku rootbeer]]></category>
+		<category><![CDATA[bakmi]]></category>
+		<category><![CDATA[bakpao]]></category>
+		<category><![CDATA[bakso]]></category>
+		<category><![CDATA[bakwan]]></category>
+		<category><![CDATA[bir]]></category>
+		<category><![CDATA[bir pletok]]></category>
+		<category><![CDATA[halal haram]]></category>
+		<category><![CDATA[rootbeer]]></category>
+		<category><![CDATA[rootbeer halal]]></category>
+		<category><![CDATA[rootbeer haram]]></category>
+		<guid isPermaLink="false">https://panganpedia.com/?p=2749</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Beredarnya produk makanan dan minuman yang &#8216;nyentrik&#8217; memang seringkali dibuat produsen untuk mendongkrak popularitas produk tersebut. Bagi umat muslim, beberapa produk makanan dan minuman jelas-jelas haram jika dikonsumsi, sebut saja bir, whiskey, anggur, dan daging babi.  Jika Anda jeli, misalnya, ada banyak produk bir di pasaran yang berembel-embel &#8220;no alcohol&#8221; atau &#8220;0% alkohol&#8221; [&#8230;]</p>
+<p>The post <a href="/pangan-lokal/rootbeer-halal-atau-haram/">Bir 0% Alkohol dan Bir Pletok, Apakah Halal?</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/pangan-lokal/rootbeer-halal-atau-haram/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

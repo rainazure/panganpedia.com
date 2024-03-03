@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pasta | Panganpedia</title>
+	<atom:link href="/tag/pasta/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/pasta/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sun, 13 Nov 2016 23:17:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>pasta | Panganpedia</title>
+	<link>/tag/pasta/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mengintip Kecanggihan Beragam Jenis 3D Food Printer</title>
+		<link>/teknologi/printer-makanan-3-dimensi/</link>
+					<comments>/teknologi/printer-makanan-3-dimensi/#respond</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Sun, 13 Nov 2016 23:11:38 +0000</pubDate>
+				<category><![CDATA[Teknologi]]></category>
+		<category><![CDATA[burger]]></category>
+		<category><![CDATA[chicken nugget]]></category>
+		<category><![CDATA[cokelat]]></category>
+		<category><![CDATA[pasta]]></category>
+		<category><![CDATA[permen]]></category>
+		<category><![CDATA[pizza]]></category>
+		<category><![CDATA[printer]]></category>
+		<category><![CDATA[printer makanan]]></category>
+		<category><![CDATA[printer makanan 3 dimensi]]></category>
+		<category><![CDATA[printer makanan 3D]]></category>
+		<category><![CDATA[printer pangan]]></category>
+		<category><![CDATA[teknologi]]></category>
+		<category><![CDATA[teknologi pangan]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1644</guid>
+
+					<description><![CDATA[<p>Akan tiba masanya makanan akan sangat cepat disajikan dengan hanya keluar dari mesin. Ya, meski masih jauh dari level Star Trek, sekarang sudah ada printer khusus untuk makanan, tiga dimensi pula! Coba dicek yuk seperti apa kecanggihan 3D Food Printer yang sudah ada saat ini. Chefjet Pro (3D Systems) Printer makanan 3 dimensi besutan 3D Systems [&#8230;]</p>
+<p>The post <a href="/teknologi/printer-makanan-3-dimensi/">Mengintip Kecanggihan Beragam Jenis 3D Food Printer</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/teknologi/printer-makanan-3-dimensi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Peneliti Italia Berhasil Membuat Pasta Kaya Probiotik</title>
+		<link>/teknologi/peneliti-italia-berhasil-membuat-pasta-kaya-probiotik/</link>
+					<comments>/teknologi/peneliti-italia-berhasil-membuat-pasta-kaya-probiotik/#comments</comments>
+		
+		<dc:creator><![CDATA[Lasuardi Permana]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2015 09:30:24 +0000</pubDate>
+				<category><![CDATA[Teknologi]]></category>
+		<category><![CDATA[kesehatan]]></category>
+		<category><![CDATA[makanan fungsional]]></category>
+		<category><![CDATA[pasta]]></category>
+		<category><![CDATA[probiotik]]></category>
+		<guid isPermaLink="false">http://www.panganpedia.com/?p=392</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Pasta merupakan salah satu jenis makanan Italia yang terbuat dari tepung durum yang mengandung protein tinggi. Meskipun protein pada durum ini tinggi, tetapi kandungan glutennya sangat rendah dibandingkan tepung gandum. Kandungan protein tinggi pada tepung durum cocok untuk digunakan sebagai bahan baku pasta, yang dibuat  dengan cara ekstrusi. [irp posts=&#8221;197&#8243; name=&#8221;Kres.. Kres.. Yummy! Begini [&#8230;]</p>
+<p>The post <a href="/teknologi/peneliti-italia-berhasil-membuat-pasta-kaya-probiotik/">Peneliti Italia Berhasil Membuat Pasta Kaya Probiotik</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/teknologi/peneliti-italia-berhasil-membuat-pasta-kaya-probiotik/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

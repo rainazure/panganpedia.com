@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gabah padi | Panganpedia</title>
+	<atom:link href="/tag/gabah-padi/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/gabah-padi/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:16:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>gabah padi | Panganpedia</title>
+	<link>/tag/gabah-padi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Agar Kolesterol Turun, Makan Gabah Padi Yuk!</title>
+		<link>/asal-kamu-tahu/gabah-padi-makanan-penurun-kolesterol-alami/</link>
+					<comments>/asal-kamu-tahu/gabah-padi-makanan-penurun-kolesterol-alami/#respond</comments>
+		
+		<dc:creator><![CDATA[K]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2015 11:36:35 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[ceramide]]></category>
+		<category><![CDATA[gabah padi]]></category>
+		<category><![CDATA[panganpedia]]></category>
+		<category><![CDATA[produsen ceramide indonesia]]></category>
+		<category><![CDATA[turunkan kolesterol]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=562</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Masih muda sudah kolesterol?! Bahaya dong! Tidak semua kolesterol berdampak buruk bagi tubuh. Low Density Lipoprotein (LDL) adalah kolesterol jahat, yang bila jumlahnya berlebih di dalam darah akan diendapkan pada dinding pembuluh darah membentuk bekuan yang dapat menyumbat pembulun darah. Kadar kolesterol total yang diharapkan dalam tubuh adalah tidak lebih dari 200 mg/dL, dengan komposisi [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/gabah-padi-makanan-penurun-kolesterol-alami/">Agar Kolesterol Turun, Makan Gabah Padi Yuk!</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/gabah-padi-makanan-penurun-kolesterol-alami/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

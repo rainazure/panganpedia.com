@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pengujian | Panganpedia</title>
+	<atom:link href="/tag/pengujian/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/pengujian/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Tue, 02 Jan 2024 13:38:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>pengujian | Panganpedia</title>
+	<link>/tag/pengujian/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Konsep Dasar Evaluasi Sensoris untuk Industri Pangan</title>
+		<link>/ilmu-pangan/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan/</link>
+					<comments>/ilmu-pangan/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan/#respond</comments>
+		
+		<dc:creator><![CDATA[Lasuardi Permana]]></dc:creator>
+		<pubDate>Thu, 28 Dec 2023 07:40:41 +0000</pubDate>
+				<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[Teknologi]]></category>
+		<category><![CDATA[indera]]></category>
+		<category><![CDATA[instrument]]></category>
+		<category><![CDATA[manusia]]></category>
+		<category><![CDATA[panelis]]></category>
+		<category><![CDATA[pengujian]]></category>
+		<category><![CDATA[sensori]]></category>
+		<category><![CDATA[uji deskripsi]]></category>
+		<category><![CDATA[uji pembedaan]]></category>
+		<category><![CDATA[uji preferensi]]></category>
+		<category><![CDATA[uji sensoris]]></category>
+		<guid isPermaLink="false">https://panganpedia.com/?p=4289</guid>
+
+					<description><![CDATA[<p>"Pernah nggak, teman-teman, merasa esgrim ini kok mirip banget sama yang sana? Padahal harganya lebih terjangkau...<br />
+Bagaimana cara agar bisa mirip dengan kompetitor tanpa ribet? Ternyata ada metode yang sederhana tapi super berguna dalam industri makanan, yaitu Evaluasi Sensoris! ✨<br />
+Cari tahu gimana cara penilaian karakteristik rasa, aroma, tekstur, dan warna produk dengan menggunakan panca indera manusia.<br />
+Pahami cara produk mencuri perhatian konsumen dan meningkatkan daya saingnya.<br />
+ #SensoriSensation #FoodTech #EvaluasiSensoris"</p>
+<p>The post <a href="/ilmu-pangan/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan/">Konsep Dasar Evaluasi Sensoris untuk Industri Pangan</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ilmu-pangan/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

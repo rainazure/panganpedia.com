@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hutan jati | Panganpedia</title>
+	<atom:link href="/tag/hutan-jati/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/hutan-jati/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Tue, 11 Oct 2016 07:12:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>hutan jati | Panganpedia</title>
+	<link>/tag/hutan-jati/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ungker, Pangan Eksotis dari Hutan Jati</title>
+		<link>/pangan-lokal/ungker-pangan-eksotis-dari-hutan-jati/</link>
+					<comments>/pangan-lokal/ungker-pangan-eksotis-dari-hutan-jati/#respond</comments>
+		
+		<dc:creator><![CDATA[Bara Tiranocyda]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2016 06:55:53 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[Pangan Lokal]]></category>
+		<category><![CDATA[blora]]></category>
+		<category><![CDATA[eksotis]]></category>
+		<category><![CDATA[high protein]]></category>
+		<category><![CDATA[hutan jati]]></category>
+		<category><![CDATA[kepompong]]></category>
+		<category><![CDATA[ulat jati]]></category>
+		<category><![CDATA[ungker]]></category>
+		<category><![CDATA[unik]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1471</guid>
+
+					<description><![CDATA[<p>Ungker hutan jati ini merupakan makanan eksotis dari Blora. Kandungan protein pada ungker lebih tinggi daripada daging ayam dan daging sapi.</p>
+<p>The post <a href="/pangan-lokal/ungker-pangan-eksotis-dari-hutan-jati/">Ungker, Pangan Eksotis dari Hutan Jati</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/pangan-lokal/ungker-pangan-eksotis-dari-hutan-jati/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gurih | Panganpedia</title>
+	<atom:link href="/tag/gurih/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/gurih/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Mon, 26 Nov 2018 01:23:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>gurih | Panganpedia</title>
+	<link>/tag/gurih/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lain Negara, Lain Bumbu Barbekyu</title>
+		<link>/asal-kamu-tahu/lain-negara-lain-bumbu-barbekyu/</link>
+					<comments>/asal-kamu-tahu/lain-negara-lain-bumbu-barbekyu/#respond</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Mon, 26 Nov 2018 01:23:06 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[aroma]]></category>
+		<category><![CDATA[barbeque]]></category>
+		<category><![CDATA[bbq]]></category>
+		<category><![CDATA[bulgogi]]></category>
+		<category><![CDATA[bumbu]]></category>
+		<category><![CDATA[bumbu barbekyu]]></category>
+		<category><![CDATA[daging]]></category>
+		<category><![CDATA[gurih]]></category>
+		<category><![CDATA[jepang]]></category>
+		<category><![CDATA[kimchi]]></category>
+		<category><![CDATA[korea]]></category>
+		<category><![CDATA[lemak]]></category>
+		<category><![CDATA[manis]]></category>
+		<category><![CDATA[panggang]]></category>
+		<category><![CDATA[yakiniku]]></category>
+		<guid isPermaLink="false">https://panganpedia.com/?p=3154</guid>
+
+					<description><![CDATA[<p>Panganpedia – Siapa yang tidak suka barbekyu? Entah menulisnya sebagai barbekyu, barbecue, barbekiu, bakar-bakar daging, atau BBQ, diawal artikel ini kita sepakat ya bahwa yang dibahas adalah soal pemanggangan daging menggunakan bumbu-bumbu yang umum dipakai. Mengapa barbekyu menjadi populer? Tentu saja karena flavornya, dimana rasa lemak panggang yang lezat bercampur dengan bumbu yang menghasilkan taste [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/lain-negara-lain-bumbu-barbekyu/">Lain Negara, Lain Bumbu Barbekyu</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/lain-negara-lain-bumbu-barbekyu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

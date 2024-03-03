@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nama mui | Panganpedia</title>
+	<atom:link href="/tag/nama-mui/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/nama-mui/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Mon, 28 May 2018 03:57:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>nama mui | Panganpedia</title>
+	<link>/tag/nama-mui/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nama-Nama Produk Ini Tidak Dapat Disertifikasi Halal</title>
+		<link>/tips-dan-trik/nama-produk-sertifikasi-mui/</link>
+					<comments>/tips-dan-trik/nama-produk-sertifikasi-mui/#comments</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Tue, 29 May 2018 03:07:53 +0000</pubDate>
+				<category><![CDATA[Tips dan Trik]]></category>
+		<category><![CDATA[lppom mui]]></category>
+		<category><![CDATA[mui]]></category>
+		<category><![CDATA[nama mui]]></category>
+		<category><![CDATA[nama produk mui]]></category>
+		<category><![CDATA[sertifikasi mui]]></category>
+		<guid isPermaLink="false">https://panganpedia.com/?p=2755</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Bagi pelaku usaha industri pangan, memiliki sertifikasi BPOM dan MUI adalah kewajiban. Sertifikasi halal adalah prosedur penerbitan sertifikat halal oleh MUI , dimana produk yang didaftarkan dinyatakan halal sesuai dengan fatwa Majelis Ulama Indonesia. Dengan mendapatkan sertifikasi MUI ini, maka produsen boleh menampilkan cap halal di produknya. Sebuah produk dikatakan halal jika ia [&#8230;]</p>
+<p>The post <a href="/tips-dan-trik/nama-produk-sertifikasi-mui/">Nama-Nama Produk Ini Tidak Dapat Disertifikasi Halal</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/tips-dan-trik/nama-produk-sertifikasi-mui/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

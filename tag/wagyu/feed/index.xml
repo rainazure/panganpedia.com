@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wagyu | Panganpedia</title>
+	<atom:link href="/tag/wagyu/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/wagyu/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:19:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>wagyu | Panganpedia</title>
+	<link>/tag/wagyu/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Rahasia Dibalik Wagyu, Daging Sapi Jepang yang Menggiurkan</title>
+		<link>/asal-kamu-tahu/rahasia-dibalik-wagyu-daging-sapi-jepang-yang-menggiurkan/</link>
+					<comments>/asal-kamu-tahu/rahasia-dibalik-wagyu-daging-sapi-jepang-yang-menggiurkan/#respond</comments>
+		
+		<dc:creator><![CDATA[Lasuardi Permana]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2015 12:50:50 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[daging]]></category>
+		<category><![CDATA[daging jepang]]></category>
+		<category><![CDATA[japanese black]]></category>
+		<category><![CDATA[jepang]]></category>
+		<category><![CDATA[kobe]]></category>
+		<category><![CDATA[marbling]]></category>
+		<category><![CDATA[strain]]></category>
+		<category><![CDATA[wagyu]]></category>
+		<category><![CDATA[wagyu asli]]></category>
+		<guid isPermaLink="false">http://www.panganpedia.com/?p=301</guid>
+
+					<description><![CDATA[<p>panganpedia &#8211; Jika Anda berkunjung ke Jepang, maka salah satu makanan favorit yang harus ada coba adalah olahan daging Wagyū ini. Daging wagyu ini sebenarnya banyak ditemui di Jepang, tetapi yang menjadi favorit adalah daging wagyu yang berasal dari daerah Kobe di Prefektur Hyogo, terutama dari Tajima, yaitu strain Japanese Black (Kuroge Washu) Wagyū (和牛), [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/rahasia-dibalik-wagyu-daging-sapi-jepang-yang-menggiurkan/">Rahasia Dibalik Wagyu, Daging Sapi Jepang yang Menggiurkan</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/rahasia-dibalik-wagyu-daging-sapi-jepang-yang-menggiurkan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

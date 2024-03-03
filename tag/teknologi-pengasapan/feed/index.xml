@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teknologi pengasapan | Panganpedia</title>
+	<atom:link href="/tag/teknologi-pengasapan/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/teknologi-pengasapan/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:16:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>teknologi pengasapan | Panganpedia</title>
+	<link>/tag/teknologi-pengasapan/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mengenal Lebih Dekat Asap Cair</title>
+		<link>/ilmu-pangan/manfaat-asap-cair/</link>
+					<comments>/ilmu-pangan/manfaat-asap-cair/#respond</comments>
+		
+		<dc:creator><![CDATA[Kurnia Utami]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2015 05:35:19 +0000</pubDate>
+				<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[asap cair]]></category>
+		<category><![CDATA[manfaat asap cair]]></category>
+		<category><![CDATA[teknologi pengasapan]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=541</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Minyak kelapa sawit (crude palm oil – CPO) saat ini adalah sumber minyak nabati terbesar di dunia. Menurut laporan Oil World pada tahun 2011, minyak kelapa sawit memberikan andil sekitar 27 % atau 46 juta ton terhadap total minyak nabati di dunia. Di Indonesia, bahkan terdapat pabrik kelapa sawit yang berjumlah lebih dari [&#8230;]</p>
+<p>The post <a href="/ilmu-pangan/manfaat-asap-cair/">Mengenal Lebih Dekat Asap Cair</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ilmu-pangan/manfaat-asap-cair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
