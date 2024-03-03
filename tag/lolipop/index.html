@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]--><!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]--><!--[if gt IE 8]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>lolipop | Panganpedia</title>
+<link rel="preload" href="/wp-content/themes/Newspaper/images/icons/newspaper.woff?23" as="font" crossorigin>
+<link rel="preload" href="/wp-content/themes/Newspaper/images/icons/newspaper.woff?20" as="font" crossorigin>
+<link rel="preload" href="/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/icons/newspaper-icons.woff?1" as="font" crossorigin>
+<link rel="preload" href="ttps://panganpedia.com/wp-content/themes/Newspaper/images/icons/newspaper.woff?221" as="font" crossorigin>
+<link rel="preload" href="/wp-content/cache/perfmatters//css/tag.used.css?ver=1709448734" as="style" onload="this.rel='stylesheet';this.removeAttribute('onload');">
+<link rel="stylesheet" id="perfmatters-used-css" href="/wp-content/cache/perfmatters//css/tag.used.css?ver=1709448734" media="all">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var ewww_webp_supported=!1;function check_webp_feature(A,e){var w;e=void 0!==e?e:function(){},ewww_webp_supported?e(ewww_webp_supported):((w=new Image).onload=function(){ewww_webp_supported=0<w.width&&0<w.height,e&&e(ewww_webp_supported)},w.onerror=function(){e&&e(!1)},w.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA=="}[A])}check_webp_feature("alpha");</script><script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var Arrive=function(c,w){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var r,a=0,u=(r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&r.call(e,t)},addMethod:function(e,t,r){var a=e[t];e[t]=function(){return r.length==arguments.length?r.apply(this,arguments):"function"==typeof a?a.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var r,a=0;r=e[a];a++)r&&r.callback&&r.callback.call(r.elem,r.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,r,a){for(var i,n=0;i=e[n];n++)r(i,t,a)&&a.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,r,a)},mergeArrays:function(e,t){var r,a={};for(r in e)e.hasOwnProperty(r)&&(a[r]=e[r]);for(r in t)t.hasOwnProperty(r)&&(a[r]=t[r]);return a},toElementsArray:function(e){return e=void 0!==e&&("number"!=typeof e.length||e===c)?[e]:e}}),e=(l.prototype.addEvent=function(e,t,r,a){a={target:e,selector:t,options:r,callback:a,firedElems:[]};return this._beforeAdding&&this._beforeAdding(a),this._eventsBucket.push(a),a},l.prototype.removeEvent=function(e){for(var t,r=this._eventsBucket.length-1;t=this._eventsBucket[r];r--)e(t)&&(this._beforeRemoving&&this._beforeRemoving(t),(t=this._eventsBucket.splice(r,1))&&t.length&&(t[0].callback=null))},l.prototype.beforeAdding=function(e){this._beforeAdding=e},l.prototype.beforeRemoving=function(e){this._beforeRemoving=e},l),t=function(i,n){var o=new e,l=this,s={fireOnAttributesModification:!1};return o.beforeAdding(function(t){var e=t.target;e!==c.document&&e!==c||(e=document.getElementsByTagName("html")[0]);var r=new MutationObserver(function(e){n.call(this,e,t)}),a=i(t.options);r.observe(e,a),t.observer=r,t.me=l}),o.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,r){t=u.mergeArrays(s,t);for(var a=u.toElementsArray(this),i=0;i<a.length;i++)o.addEvent(a[i],e,t,r)},this.unbindEvent=function(){var r=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<r.length;t++)if(this===w||e.target===r[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(r){var a=u.toElementsArray(this),i=r,e="function"==typeof r?function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.selector===r)return!0;return!1};o.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(r,a){var i=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===r&&e.callback===a)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,r){return!(!u.matchesSelector(e,t.selector)||(e._id===w&&(e._id=a++),-1!=t.firedElems.indexOf(e._id)))&&(t.firedElems.push(e._id),!0)}var c=(i=new t(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,r=e.target,a=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,a):"attributes"===e.type&&n(r,i)&&a.push({callback:i.callback,elem:r}),u.callCallbacks(a,i)})})).bindEvent;return i.bindEvent=function(e,t,r){t=void 0===r?(r=t,s):u.mergeArrays(s,t);var a=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<a.length;n++)for(var o=a[n].querySelectorAll(e),l=0;l<o.length;l++)i.push({callback:r,elem:o[l]});if(t.onceOnly&&i.length)return r.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,r)},i},o=new function(){var a={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new t(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,e=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,e),u.callCallbacks(e,r)})})).bindEvent;return o.bindEvent=function(e,t,r){t=void 0===r?(r=t,a):u.mergeArrays(a,t),n.call(this,e,t,r)},o};d(HTMLElement.prototype),d(NodeList.prototype),d(HTMLCollection.prototype),d(HTMLDocument.prototype),d(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function l(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}function s(e,t,r){u.addMethod(t,r,e.unbindEvent),u.addMethod(t,r,e.unbindEventWithSelectorOrCallback),u.addMethod(t,r,e.unbindEventWithSelectorAndCallback)}function d(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){var r;ewww_webp_supported?t(ewww_webp_supported):((r=new Image).onload=function(){ewww_webp_supported=0<r.width&&0<r.height,t(ewww_webp_supported)},r.onerror=function(){t(!1)},r.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e])}function ewwwLoadImages(e){if(e){for(var t=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,a=t.length;r<a;r++)ewwwAttr(t[r],"data-src",t[r].getAttribute("data-webp")),ewwwAttr(t[r],"data-thumbnail",t[r].getAttribute("data-webp-thumbnail"));for(var i=document.querySelectorAll(".rev_slider ul li"),r=0,a=i.length;r<a;r++){ewwwAttr(i[r],"data-thumb",i[r].getAttribute("data-webp-thumb"));for(var n=1;n<11;)ewwwAttr(i[r],"data-param"+n,i[r].getAttribute("data-webp-param"+n)),n++}for(r=0,a=(i=document.querySelectorAll(".rev_slider img")).length;r<a;r++)ewwwAttr(i[r],"data-lazyload",i[r].getAttribute("data-webp-lazyload"));for(var o=document.querySelectorAll("div.woocommerce-product-gallery__image"),r=0,a=o.length;r<a;r++)ewwwAttr(o[r],"data-thumb",o[r].getAttribute("data-webp-thumb"))}for(var l=document.querySelectorAll("video"),r=0,a=l.length;r<a;r++)ewwwAttr(l[r],"poster",e?l[r].getAttribute("data-poster-webp"):l[r].getAttribute("data-poster-image"));for(var s,c=document.querySelectorAll("img.ewww_webp_lazy_load"),r=0,a=c.length;r<a;r++)e&&(ewwwAttr(c[r],"data-lazy-srcset",c[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(c[r],"data-srcset",c[r].getAttribute("data-srcset-webp")),ewwwAttr(c[r],"data-lazy-src",c[r].getAttribute("data-lazy-src-webp")),ewwwAttr(c[r],"data-src",c[r].getAttribute("data-src-webp")),ewwwAttr(c[r],"data-orig-file",c[r].getAttribute("data-webp-orig-file")),ewwwAttr(c[r],"data-medium-file",c[r].getAttribute("data-webp-medium-file")),ewwwAttr(c[r],"data-large-file",c[r].getAttribute("data-webp-large-file")),null!=(s=c[r].getAttribute("srcset"))&&!1!==s&&s.includes("R0lGOD")&&ewwwAttr(c[r],"src",c[r].getAttribute("data-lazy-src-webp"))),c[r].className=c[r].className.replace(/\bewww_webp_lazy_load\b/,"");for(var w=document.querySelectorAll(".ewww_webp"),r=0,a=w.length;r<a;r++)e?(ewwwAttr(w[r],"srcset",w[r].getAttribute("data-srcset-webp")),ewwwAttr(w[r],"src",w[r].getAttribute("data-src-webp")),ewwwAttr(w[r],"data-orig-file",w[r].getAttribute("data-webp-orig-file")),ewwwAttr(w[r],"data-medium-file",w[r].getAttribute("data-webp-medium-file")),ewwwAttr(w[r],"data-large-file",w[r].getAttribute("data-webp-large-file")),ewwwAttr(w[r],"data-large_image",w[r].getAttribute("data-webp-large_image")),ewwwAttr(w[r],"data-src",w[r].getAttribute("data-webp-src"))):(ewwwAttr(w[r],"srcset",w[r].getAttribute("data-srcset-img")),ewwwAttr(w[r],"src",w[r].getAttribute("data-src-img"))),w[r].className=w[r].className.replace(/\bewww_webp\b/,"ewww_webp_loaded");window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,r){null!=r&&!1!==r&&e.setAttribute(t,r)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),r=0,a=t.length;r<a;r++){var i=t[r].getAttribute("data-product_variations"),n=!1;try{for(var o in i=JSON.parse(i))void 0!==i[o]&&void 0!==i[o].image&&(void 0!==i[o].image.src_webp&&(i[o].image.src=i[o].image.src_webp,n=!0),void 0!==i[o].image.srcset_webp&&(i[o].image.srcset=i[o].image.srcset_webp,n=!0),void 0!==i[o].image.full_src_webp&&(i[o].image.full_src=i[o].image.full_src_webp,n=!0),void 0!==i[o].image.gallery_thumbnail_src_webp&&(i[o].image.gallery_thumbnail_src=i[o].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[o].image.thumb_src_webp&&(i[o].image.thumb_src=i[o].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[r],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var r=galleries[t];galleries[t].images_list=ewwwNggParseImageList(r.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var r=$(e).data("id");return galleries["gallery_"+r].images_list=ewwwNggParseImageList(galleries["gallery_"+r].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var r=e[t];if(void 0!==r["image-webp"]&&(e[t].image=r["image-webp"],delete e[t]["image-webp"]),void 0!==r["thumb-webp"]&&(e[t].thumb=r["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==r.full_image_webp&&(e[t].full_image=r.full_image_webp,delete e[t].full_image_webp),void 0!==r.srcsets)for(var a in r.srcsets)nggSrcset=r.srcsets[a],void 0!==r.srcsets[a+"-webp"]&&(e[t].srcsets[a]=r.srcsets[a+"-webp"],delete e[t].srcsets[a+"-webp"]);if(void 0!==r.full_srcsets)for(var i in r.full_srcsets)nggFSrcset=r.full_srcsets[i],void 0!==r.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=r.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><meta http-equiv="x-dns-prefetch-control" content="on">
+        <link rel="dns-prefetch" href="//1ovdbngo4smbx.cdn.shift8web.ca">
+        <link rel="dns-prefetch" href="//1ovdbngo4smbx.cdn.shift8web.com">
+        <link rel="dns-prefetch" href="//1ovdbngo4smbx.wpcdn.shift8cdn.com">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="icon" type="image/png" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/IOS-76.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/IOS-120.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/IOS-114.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/IOS-144.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/IOS-76.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/IOS-152.png">
+	<!-- This site is optimized with the Yoast SEO plugin v22.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="/tag/lolipop/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="lolipop | Panganpedia">
+	<meta property="og:url" content="/tag/lolipop/">
+	<meta property="og:site_name" content="Panganpedia">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@panganpedia">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"/tag/lolipop/","url":"/tag/lolipop/","name":"lolipop | Panganpedia","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/tag/lolipop/#primaryimage"},"image":{"@id":"/tag/lolipop/#primaryimage"},"thumbnailUrl":"https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/1672203711_9cf6dede65_o-e1451006957741.jpg","breadcrumb":{"@id":"/tag/lolipop/#breadcrumb"},"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"/tag/lolipop/#primaryimage","url":"https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/1672203711_9cf6dede65_o-e1451006957741.jpg","contentUrl":"https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/1672203711_9cf6dede65_o-e1451006957741.jpg","width":800,"height":446,"caption":"rahasia-lolipop"},{"@type":"BreadcrumbList","@id":"/tag/lolipop/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"/"},{"@type":"ListItem","position":2,"name":"lolipop"}]},{"@type":"WebSite","@id":"/#website","url":"/","name":"Panganpedia","description":"Situs Informasi Pangan Indonesia Terpercaya","publisher":{"@id":"/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"/#organization","name":"Panganpedia","url":"/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"/#/schema/logo/image/","url":"https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/panganpedia-e1450190134932.png","contentUrl":"https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/panganpedia-e1450190134932.png","width":250,"height":76,"caption":"Panganpedia"},"image":{"@id":"/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/panganpedia.com","https://twitter.com/panganpedia","http://www.instagram.com/panganpedia"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//secure.gravatar.com">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="mediaelement-css" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.17/build/mediaelementplayer-legacy.min.css" integrity="sha384-1c9SFD+1lW81lsH5QB5cvZ/D26GhBB8/qaqS14v6qOI026BwkaSmdn4dHoRHlCKA" crossorigin="anonymous" type="text/css">
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="wp-mediaelement-css" href="https://cdn.jsdelivr.net/gh/wordpress/wordpress@6.4.3/wp-includes/js/mediaelement/wp-mediaelement.min.css" integrity="sha384-6noW8xmd4Z0DJ7Hymr6LrTimeh9+qJB5k7AEcUCA2uoLmIt/Z8TSy8GfMRQXeS+s" crossorigin="anonymous" type="text/css">
+<style id="jetpack-sharing-buttons-style-inline-css" type="text/css">.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}</style>
+<style id="classic-theme-styles-inline-css" type="text/css">/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
+<style id="global-styles-inline-css" type="text/css">body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 11px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 15px;--wp--preset--font-size--larger: 50px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}</style>
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="ssp-search-css" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/simply-static-pro/assets/ssp-search.css?ver=1.2.4.5" type="text/css">
+<link rel="stylesheet" id="google-fonts-style-css" href="/wp-content/cache/perfmatters//fonts/dd6d72d8bd19.google-fonts.css" type="text/css" media="all">
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="td-theme-css" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/themes/Newspaper/style.css?ver=12.6.3" type="text/css">
+<style id="td-theme-inline-css" type="text/css">@media (max-width:767px){.td-header-desktop-wrap{display:none}}@media (min-width:767px){.td-header-mobile-wrap{display:none}}</style>
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="td-theme-child-css" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/themes/Panganpedia/style.css?ver=12.6.3c" type="text/css">
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="td-legacy-framework-front-style-css" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=6e115e4f3fd55dfd38f44cc142869bd1" type="text/css">
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="td-standard-pack-framework-front-style-css" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=ced655a2648d3677707c9e7999346fb6" type="text/css">
+<link media="print" onload="this.media='all';this.onload=null;" rel="stylesheet" id="tdb_style_cloud_templates_front-css" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-cloud-library/assets/css/tdb_main.css?ver=6cc04771d778c6f460cf525df52258a3" type="text/css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+try{jQuery.noConflict();}catch(e){};
+/* ]]> */
+</script>
+<meta name="generator" content="Site Kit by Google 1.121.0">
+<script async src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/perfmatters/gtagv4.js?id=G-Q0EE357CQM"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag("js", new Date());gtag("config", "G-Q0EE357CQM");</script>		<meta name="ssp-url">
+		<meta name="ssp-origin-url" content="aHR0cDovL3BhbmdhbnBlZGlhLmxvY2Fs">
+
+					<meta name="ssp-config-url" content="/wp-content/uploads/simply-static/configs/">
+		
+				    <script>window.tdb_global_vars = {"wpRestUrl":"\/wp-json\/","permalinkStructure":"\/%category%\/%postname%\/"};
+        window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};</script>
+    
+    <style id="tdb-global-colors">:root{--accent-color:#fff}</style>
+	
+    <style id="tdb-global-fonts">:root {--global-font-1: Roboto;}</style>
+    
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript>
+<style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style>
+<!-- JS generated by theme -->
+
+<script>var tdBlocksArray = []; //here we store all the items for the current page
+
+	    // td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+        // td_js_generator - mini detector
+        ( function () {
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img, .td-lazy-img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img, .td-animation-stack .td-lazy-img";
+var tds_general_modal_image="yes";
+var tdc_is_installed="yes";
+var td_ajax_url="\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=12.6.3";
+var td_get_template_directory_uri="\/wp-content\/plugins\/td-composer\/legacy\/common";
+var tds_snap_menu="";
+var tds_logo_on_sticky="show_header_logo";
+var tds_header_style="2";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var td_user_incorrect="Username incorrect!";
+var td_email_user_empty="Email or username empty!";
+var td_pass_empty="Pass empty!";
+var td_pass_pattern_incorrect="Invalid Pass Pattern!";
+var td_retype_pass_incorrect="Retyped Pass incorrect!";
+var tds_more_articles_on_post_enable="show";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=1200;
+var tds_captcha="";
+var tds_theme_color_site_wide="#dd4d4d";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var tdThemeNameWl="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdBlockNonce="b29d5a9393";
+var tdMobileMenu="enabled";
+var tdMobileSearch="enabled";
+var tdsDateFormat="l, F j, Y";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var tdb_modal_confirm="Save";
+var tdb_modal_cancel="Cancel";
+var tdb_modal_confirm_alt="Yes";
+var tdb_modal_cancel_alt="No";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>body,p{font-family:Roboto}:root{--td_theme_color:#dd4d4d;--td_slider_text:rgba(221,77,77,0.7);--td_header_color:#a8a8a8;--td_text_header_color:#000000;--td_mobile_menu_color:#d3674c}.td-header-style-12 .td-header-menu-wrap-full,.td-header-style-12 .td-affix,.td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,.td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,.td_category_template_3 .td-current-sub-category,.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,.td_block_big_grid_9.td-grid-style-1 .td-post-category,.td_block_big_grid_9.td-grid-style-5 .td-post-category,.td-grid-style-6.td-hover-1 .td-module-thumb:after,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-menu-item>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>li>a:hover,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.sfHover>a{background-color:#dd4d4d}.td_mega_menu_sub_cats .cur-sub-cat,.td-mega-span h3 a:hover,.td_mod_mega_menu:hover .entry-title a,.header-search-wrap .result-msg a:hover,.td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,.td-header-top-menu .td-icon-search:hover,.td-header-wrap .result-msg a:hover,.top-header-menu li a:hover,.top-header-menu .current-menu-item>a,.top-header-menu .current-menu-ancestor>a,.top-header-menu .current-category-ancestor>a,.td-social-icon-wrap>a:hover,.td-header-sp-top-widget .td-social-icon-wrap a:hover,.td_mod_related_posts:hover h3>a,.td-post-template-11 .td-related-title .td-related-left:hover,.td-post-template-11 .td-related-title .td-related-right:hover,.td-post-template-11 .td-related-title .td-cur-simple-item,.td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,.td-category-header .td-pulldown-category-filter-link:hover,.td-category-siblings .td-subcat-dropdown a:hover,.td-category-siblings .td-subcat-dropdown a.td-current-sub-category,.footer-text-wrap .footer-email-wrap a,.footer-social-wrap a:hover,.td_module_17 .td-read-more a:hover,.td_module_18 .td-read-more a:hover,.td_module_19 .td-post-author-name a:hover,.td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,.td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,.td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,.td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-menu-item>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.sfHover>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>li>a:hover{color:#dd4d4d}.td-mega-menu-page .wpb_content_element ul li a:hover,.td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,.td-theme-wrap .header-search-wrap .result-msg a:hover{color:#dd4d4d!important}.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-menu-item>a,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style4 .tdm-header .sf-menu>li>a:hover,.tdm-menu-active-style4 .tdm-header .sf-menu>.sfHover>a{border-color:#dd4d4d}.td-footer-wrapper,.td-footer-wrapper .td_block_template_7 .td-block-title>*,.td-footer-wrapper .td_block_template_17 .td-block-title,.td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter{background-color:#000000}.td-excerpt,.td_module_14 .td-excerpt{font-family:Roboto}body,p{font-family:Roboto}:root{--td_theme_color:#dd4d4d;--td_slider_text:rgba(221,77,77,0.7);--td_header_color:#a8a8a8;--td_text_header_color:#000000;--td_mobile_menu_color:#d3674c}.td-header-style-12 .td-header-menu-wrap-full,.td-header-style-12 .td-affix,.td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,.td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,.td_category_template_3 .td-current-sub-category,.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,.td_block_big_grid_9.td-grid-style-1 .td-post-category,.td_block_big_grid_9.td-grid-style-5 .td-post-category,.td-grid-style-6.td-hover-1 .td-module-thumb:after,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-menu-item>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>li>a:hover,.tdm-menu-active-style5 .td-header-menu-wrap .sf-menu>.sfHover>a{background-color:#dd4d4d}.td_mega_menu_sub_cats .cur-sub-cat,.td-mega-span h3 a:hover,.td_mod_mega_menu:hover .entry-title a,.header-search-wrap .result-msg a:hover,.td-header-top-menu .td-drop-down-search .td_module_wrap:hover .entry-title a,.td-header-top-menu .td-icon-search:hover,.td-header-wrap .result-msg a:hover,.top-header-menu li a:hover,.top-header-menu .current-menu-item>a,.top-header-menu .current-menu-ancestor>a,.top-header-menu .current-category-ancestor>a,.td-social-icon-wrap>a:hover,.td-header-sp-top-widget .td-social-icon-wrap a:hover,.td_mod_related_posts:hover h3>a,.td-post-template-11 .td-related-title .td-related-left:hover,.td-post-template-11 .td-related-title .td-related-right:hover,.td-post-template-11 .td-related-title .td-cur-simple-item,.td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,.td-category-header .td-pulldown-category-filter-link:hover,.td-category-siblings .td-subcat-dropdown a:hover,.td-category-siblings .td-subcat-dropdown a.td-current-sub-category,.footer-text-wrap .footer-email-wrap a,.footer-social-wrap a:hover,.td_module_17 .td-read-more a:hover,.td_module_18 .td-read-more a:hover,.td_module_19 .td-post-author-name a:hover,.td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,.td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,.td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,.td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.current-menu-item>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>.sfHover>a,.tdm-menu-active-style3 .tdm-header.td-header-wrap .sf-menu>li>a:hover{color:#dd4d4d}.td-mega-menu-page .wpb_content_element ul li a:hover,.td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,.td-theme-wrap .header-search-wrap .result-msg a:hover{color:#dd4d4d!important}.td_category_template_8 .td-category-header .td-category a.td-current-sub-category,.td_category_template_4 .td-category-siblings .td-category a:hover,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-menu-item>a,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-menu-ancestor>a,.tdm-menu-active-style4 .tdm-header .sf-menu>.current-category-ancestor>a,.tdm-menu-active-style4 .tdm-header .sf-menu>li>a:hover,.tdm-menu-active-style4 .tdm-header .sf-menu>.sfHover>a{border-color:#dd4d4d}.td-footer-wrapper,.td-footer-wrapper .td_block_template_7 .td-block-title>*,.td-footer-wrapper .td_block_template_17 .td-block-title,.td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter{background-color:#000000}.td-excerpt,.td_module_14 .td-excerpt{font-family:Roboto}</style>
+
+<!-- Facebook Pixel Code -->
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '211161855883390');
+fbq('track', "PageView");
+fbq('track', 'ViewContent');
+fbq('track', 'Search');</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=211161855883390&ev=PageView&noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<script>
+(function(i,s,o,g,r,a,m)
+{i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new 
+Date();a=s.createElement(o),m=s.getElementsByTagName(o)
+[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','
+https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-71045215-1', 'auto');
+ga('send', 'pageview');
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6042229056820039" crossorigin="anonymous"></script>
+<script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+
+
+
+<script type="application/ld+json">{
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "WebSite",
+                    "@id": "/",
+                    "name": "Home"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                    "item": {
+                    "@type": "WebPage",
+                    "@id": "/tag/lolipop/",
+                    "name": "Lolipop"
+                }
+            }    
+        ]
+    }</script>
+<link rel="icon" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/cropped-logo-512-150x150.png" sizes="32x32">
+<link rel="icon" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/cropped-logo-512-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/cropped-logo-512-300x300.png">
+<meta name="msapplication-TileImage" content="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/cropped-logo-512-300x300.png">
+
+<!-- Button style compiled by theme -->
+
+<style>.tdm-btn-style1{background-color:#dd4d4d}.tdm-btn-style2:before{border-color:#dd4d4d}.tdm-btn-style2{color:#dd4d4d}.tdm-btn-style3{-webkit-box-shadow:0 2px 16px #dd4d4d;-moz-box-shadow:0 2px 16px #dd4d4d;box-shadow:0 2px 16px #dd4d4d}.tdm-btn-style3:hover{-webkit-box-shadow:0 4px 26px #dd4d4d;-moz-box-shadow:0 4px 26px #dd4d4d;box-shadow:0 4px 26px #dd4d4d}</style>
+
+	<style id="tdw-css-placeholder"></style>
+<noscript><style>.perfmatters-lazy[data-src]{display:none !important;}</style></noscript>
+</head>
+
+<body class="archive tag tag-lolipop tag-144 td-standard-pack global-block-template-1 td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">if(typeof ewww_webp_supported==="undefined"){var ewww_webp_supported=!1}if(ewww_webp_supported){document.body.classList.add("webp-support")}</script>
+<amp-auto-ads type="adsense" data-ad-client="ca-pub-6042229056820039">
+</amp-auto-ads>
+            <div class="td-scroll-up " style="display:none;"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background" style="visibility:hidden"></div>
+<div id="td-mobile-nav" style="visibility:hidden">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/panganpedia" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+                <span style="display: none">Facebook</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/panganpedia" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+                <span style="display: none">Instagram</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="mailto:contact@panganpedia.com" title="Mail">
+                <i class="td-icon-font td-icon-mail-1"></i>
+                <span style="display: none">Mail</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.twitter.com/panganpedia" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+                <span style="display: none">Twitter</span>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <span><i class="td-icon-close-mobile"></i></span>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-menu-kategori-container"><ul id="menu-menu-kategori" class="td-mobile-main-menu">
+<li id="menu-item-1009" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-1009"><a href="/category/asal-kamu-tahu/">Asal Kamu Tahu</a></li>
+<li id="menu-item-1010" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1010">
+<a href="/category/ilmu-pangan/">Ilmu Pangan<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-0" class="menu-item-0"><a href="/category/ilmu-pangan/istilah-pangan/">Istilah Pangan</a></li>
+</ul>
+</li>
+<li id="menu-item-1011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1011"><a href="/category/myth-or-fact/">Myth or Fact</a></li>
+<li id="menu-item-1012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1012"><a href="/category/teknologi/">Teknologi</a></li>
+<li id="menu-item-1013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1013"><a href="/category/tips-dan-trik/">Tips dan Trik</a></li>
+<li id="menu-item-1014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1014"><a href="/category/pangan-lokal/">Pangan Lokal</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div>
+<div class="td-search-background" style="visibility:hidden"></div>
+<div class="td-search-wrap-mob" style="visibility:hidden">
+	<div class="td-drop-down-search">
+		<form method="get" class="td-search-form" action="http://panganpedia.local/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<span><i class="td-icon-close-mobile"></i></span>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off">
+			</div>
+		</form>
+		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
+	</div>
+</div>
+
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        
+            <div class="tdc-header-wrap ">
+
+            <!--
+Header style 2
+-->
+
+
+<div class="td-header-wrap td-header-style-2 ">
+    
+    <div class="td-header-top-menu-full td-container-wrap ">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	        <div class="td_data_time">
+            <div style="visibility:hidden;">
+
+                Sunday, March 3, 2024
+            </div>
+        </div>
+    <div class="menu-top-container"><ul id="menu-top-menu" class="top-header-menu">
+<li id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-1016"><a href="/tentang-kami/">Tentang kami</a></li>
+<li id="menu-item-1017" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1017"><a href="/kontributor/">Kontributor</a></li>
+<li id="menu-item-1015" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1015"><a href="/kirim-artikel/">Kirim Artikel</a></li>
+</ul></div>
+</div>
+        <div class="td-header-sp-top-widget">
+            <div class="td-search-btns-wrap">
+            <a id="td-header-search-button" href="#" aria-label="Search" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+        </div>
+
+
+        <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+            <form method="get" class="td-search-form" action="http://panganpedia.local/">
+                <div role="search" class="td-head-form-search-wrap">
+                    <input id="td-header-search" type="text" value="" name="s" autocomplete="off"><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search">
+                </div>
+            </form>
+            <div id="td-aj-search"></div>
+        </div>
+    
+    
+        
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/panganpedia" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+                <span style="display: none">Facebook</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/panganpedia" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+                <span style="display: none">Instagram</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="mailto:contact@panganpedia.com" title="Mail">
+                <i class="td-icon-font td-icon-mail-1"></i>
+                <span style="display: none">Mail</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.twitter.com/panganpedia" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+                <span style="display: none">Twitter</span>
+            </a>
+        </span>    </div>
+
+    </div>
+
+<!-- LOGIN MODAL -->
+
+                <div id="login-form" class="white-popup-block mfp-hide mfp-with-anim td-login-modal-wrap">
+                    <div class="td-login-wrap">
+                        <a href="#" aria-label="Back" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+                        <div id="td-login-div" class="td-login-form-div td-display-block">
+                            <div class="td-login-panel-title">Sign in</div>
+                            <div class="td-login-panel-descr">Welcome! Log into your account</div>
+                            <div class="td_display_err"></div>
+                            <form id="loginForm" action="#" method="post">
+                                <div class="td-login-inputs">
+<input class="td-login-input" autocomplete="username" type="text" name="login_email" id="login_email" value="" required><label for="login_email">your username</label>
+</div>
+                                <div class="td-login-inputs">
+<input class="td-login-input" autocomplete="current-password" type="password" name="login_pass" id="login_pass" value="" required><label for="login_pass">your password</label>
+</div>
+                                <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+                                
+                            </form>
+
+                            
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+                            
+                            
+                            
+                            
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+                            <div class="td-login-panel-title">Password recovery</div>
+                            <div class="td-login-panel-descr">Recover your password</div>
+                            <div class="td_display_err"></div>
+                            <form id="forgotpassForm" action="#" method="post">
+                                <div class="td-login-inputs">
+<input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label for="forgot_email">your email</label>
+</div>
+                                <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+                            </form>
+                            <div class="td-login-info-text">A password will be e-mailed to you.</div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap ">
+        
+        <div class="td-header-menu-wrap td-header-gradient td-header-menu-no-search">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+        <div id="td-top-mobile-toggle"><a href="#" role="button" aria-label="Menu"><i class="td-icon-font td-icon-mobile"></i></a></div>
+        <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-header" aria-label="Logo" href="/">
+			<img class="td-retina-data lazyload" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-mobile-280.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIwAAAAwAQAAAADrs6+dAAAAAnRSTlMAAHaTzTgAAAARSURBVCjPY2AYBaNgFAwWAAADkAABbwMt4AAAAABJRU5ErkJggg==" alt="Panganpedia" title="Logo Panganpedia" width="140" height="48" data-src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-mobile-140.png" decoding="async" data-eio-rwidth="140" data-eio-rheight="48"><noscript><img class="td-retina-data" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-mobile-280.png" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-mobile-140.png" alt="Panganpedia" title="Logo Panganpedia" width="140" height="48" data-eio="l"></noscript>
+		</a>
+			<a class="td-header-logo td-sticky-header" aria-label="Logo" href="/">
+			<img class="td-retina-data lazyload" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-retina.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAABaAQAAAABYxTQGAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tB2+gAAAAHgMMTgABbAEeewAAAABJRU5ErkJggg==" alt="Panganpedia" title="Logo Panganpedia" width="272" height="90" data-src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-272px.png" decoding="async" data-eio-rwidth="272" data-eio-rheight="90"><noscript><img class="td-retina-data" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-retina.png" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-272px.png" alt="Panganpedia" title="Logo Panganpedia" width="272" height="90" data-eio="l"></noscript>
+		</a>
+	    </div>
+    <div class="menu-menu-kategori-container"><ul id="menu-menu-kategori-1" class="sf-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-1009"><a href="/category/asal-kamu-tahu/">Asal Kamu Tahu</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-mega-menu menu-item-1010">
+<a href="/category/ilmu-pangan/">Ilmu Pangan</a>
+<ul class="sub-menu">
+	<li class="menu-item-0"><div class="td-container-border"><div class="td-mega-grid">
+<div class="td_block_wrap td_block_mega_menu tdi_1 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_ajax_preloading_preload" data-td-block-uid="tdi_1">
+<script>var block_tdi_1 = new tdBlock();
+block_tdi_1.id = "tdi_1";
+block_tdi_1.atts = '{"limit":4,"td_column_number":3,"ajax_pagination":"next_prev","category_id":"4","show_child_cat":30,"td_ajax_filter_type":"td_category_ids_filter","td_ajax_preloading":"preload","block_type":"td_block_mega_menu","block_template_id":"","header_color":"","ajax_pagination_infinite_stop":"","offset":"","td_filter_default_txt":"","td_ajax_filter_ids":"","el_class":"","color_preset":"","ajax_pagination_next_prev_swipe":"","border_top":"","css":"","tdc_css":"","class":"tdi_1","tdc_css_class":"tdi_1","tdc_css_class_style":"tdi_1_rand_style"}';
+block_tdi_1.td_column_number = "3";
+block_tdi_1.block_type = "td_block_mega_menu";
+block_tdi_1.post_count = "4";
+block_tdi_1.found_posts = "53";
+block_tdi_1.header_color = "";
+block_tdi_1.ajax_pagination_infinite_stop = "";
+block_tdi_1.max_num_pages = "14";
+tdBlocksArray.push(block_tdi_1);</script>            <script>
+                var tmpObj = JSON.parse(JSON.stringify(block_tdi_1));
+                tmpObj.is_ajax_running = true;
+                var currentBlockObjSignature = JSON.stringify(tmpObj);
+                tdLocalCache.set(currentBlockObjSignature, JSON.stringify({"td_data":"<div class=\"td-mega-row\"><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/istilah-pangan\/mengenal-senyawa-asam-dalam-kopi\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Mengenal Senyawa Asam dalam Kopi\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"senyawa asam dalam kopi\" title=\"Mengenal Senyawa Asam dalam Kopi\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2024\/01\/senyawa-asam-dalam-kopi-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/\" class=\"td-post-category\">Ilmu Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/istilah-pangan\/mengenal-senyawa-asam-dalam-kopi\/\"  rel=\"bookmark\" title=\"Mengenal Senyawa Asam dalam Kopi\">Mengenal Senyawa Asam dalam Kopi<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/asal-kamu-tahu\/sejarah-gula-manisnya-perjalanan-gula-dari-masa-lalu-hingga-sekarang\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"Sejarah gula\" title=\"Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2024\/01\/sugar-5040276_640-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/asal-kamu-tahu\/\" class=\"td-post-category\">Asal Kamu Tahu<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/asal-kamu-tahu\/sejarah-gula-manisnya-perjalanan-gula-dari-masa-lalu-hingga-sekarang\/\"  rel=\"bookmark\" title=\"Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang\">Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/istilah-pangan\/dekafeinasi-kopi-nikmati-aroma-tanpa-kafein-yang-mengganggu\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"kopi dekafeinasi, kopi dekaf\" title=\"Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2024\/01\/hot-coffee-3345394_1280-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/istilah-pangan\/\" class=\"td-post-category\">Istilah Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/istilah-pangan\/dekafeinasi-kopi-nikmati-aroma-tanpa-kafein-yang-mengganggu\/\"  rel=\"bookmark\" title=\"Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu\">Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Konsep Dasar Evaluasi Sensoris untuk Industri Pangan\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"\" title=\"Konsep Dasar Evaluasi Sensoris untuk Industri Pangan\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2023\/12\/AI-Eskrim-Uji-Sensoris-218x150.jpeg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/\" class=\"td-post-category\">Ilmu Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan\/\"  rel=\"bookmark\" title=\"Konsep Dasar Evaluasi Sensoris untuk Industri Pangan\">Konsep Dasar Evaluasi Sensoris untuk Industri Pangan<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><\/div>","td_block_id":"tdi_1","td_hide_prev":true,"td_hide_next":false}));
+                                            tmpObj = JSON.parse(JSON.stringify(block_tdi_1));
+                            tmpObj.is_ajax_running = true;
+                            tmpObj.td_current_page = 1;
+                            tmpObj.td_filter_value = 346;
+                            var currentBlockObjSignature = JSON.stringify(tmpObj);
+                            tdLocalCache.set(currentBlockObjSignature, JSON.stringify({"td_data":"<div class=\"td-mega-row\"><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/istilah-pangan\/mengenal-senyawa-asam-dalam-kopi\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Mengenal Senyawa Asam dalam Kopi\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"senyawa asam dalam kopi\" title=\"Mengenal Senyawa Asam dalam Kopi\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2024\/01\/senyawa-asam-dalam-kopi-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/\" class=\"td-post-category\">Ilmu Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/istilah-pangan\/mengenal-senyawa-asam-dalam-kopi\/\"  rel=\"bookmark\" title=\"Mengenal Senyawa Asam dalam Kopi\">Mengenal Senyawa Asam dalam Kopi<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/istilah-pangan\/dekafeinasi-kopi-nikmati-aroma-tanpa-kafein-yang-mengganggu\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"kopi dekafeinasi, kopi dekaf\" title=\"Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2024\/01\/hot-coffee-3345394_1280-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/istilah-pangan\/\" class=\"td-post-category\">Istilah Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/istilah-pangan\/dekafeinasi-kopi-nikmati-aroma-tanpa-kafein-yang-mengganggu\/\"  rel=\"bookmark\" title=\"Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu\">Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/memahami-air-dan-peranannya-dalam-industri-pangan\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Memahami air dan peranannya dalam industri pangan\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"\" title=\"Memahami air dan peranannya dalam industri pangan\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2023\/03\/Air-bebas-terikat1-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/\" class=\"td-post-category\">Ilmu Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/memahami-air-dan-peranannya-dalam-industri-pangan\/\"  rel=\"bookmark\" title=\"Memahami air dan peranannya dalam industri pangan\">Memahami air dan peranannya dalam industri pangan<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><div class=\"td-mega-span\">\r\n        <div class=\"td_module_mega_menu td-animation-stack td_mod_mega_menu\">\r\n            <div class=\"td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\/ilmu-pangan\/istilah-pangan\/stress-oksidatif-adalah\/\"  rel=\"bookmark\" class=\"td-image-wrap \" title=\"Banyak Konsumsi Antioksidan untuk Cegah Stress Oksidatif\" ><img class=\"entry-thumb\" src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC\" alt=\"stress-oksidatif-adalah\" title=\"Banyak Konsumsi Antioksidan untuk Cegah Stress Oksidatif\" data-type=\"image_tag\" data-img-url=\"\/wp-content\/uploads\/2018\/10\/watermelon-846357_640-218x150.jpg\"  width=\"218\" height=\"150\" \/><\/a><\/div>                <a href=\"\/category\/ilmu-pangan\/istilah-pangan\/\" class=\"td-post-category\">Istilah Pangan<\/a>            <\/div>\r\n\r\n            <div class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"><a href=\"\/ilmu-pangan\/istilah-pangan\/stress-oksidatif-adalah\/\"  rel=\"bookmark\" title=\"Banyak Konsumsi Antioksidan untuk Cegah Stress Oksidatif\">Banyak Konsumsi Antioksidan untuk Cegah Stress Oksidatif<\/a><\/h3>            <\/div>\r\n        <\/div>\r\n        <\/div><\/div>","td_block_id":"tdi_1","td_hide_prev":true,"td_hide_next":false}));
+                                    </script>
+            <div class="td_mega_menu_sub_cats"><div class="block-mega-child-cats">
+<a class="cur-sub-cat mega-menu-sub-cat-tdi_1" id="tdi_2" data-td_block_id="tdi_1" data-td_filter_value="" href="/category/ilmu-pangan/">All</a><a class="mega-menu-sub-cat-tdi_1" id="tdi_3" data-td_block_id="tdi_1" data-td_filter_value="346" href="/category/ilmu-pangan/istilah-pangan/">Istilah Pangan</a>
+</div></div>
+<div id="tdi_1" class="td_block_inner"><div class="td-mega-row">
+<div class="td-mega-span">
+        <div class="td_module_mega_menu td-animation-stack td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="/ilmu-pangan/istilah-pangan/mengenal-senyawa-asam-dalam-kopi/" rel="bookmark" class="td-image-wrap " title="Mengenal Senyawa Asam dalam Kopi"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="senyawa asam dalam kopi" title="Mengenal Senyawa Asam dalam Kopi" data-type="image_tag" data-img-url="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2024/01/senyawa-asam-dalam-kopi-218x150.jpg" width="218" height="150"></a></div>                <a href="/category/ilmu-pangan/" class="td-post-category">Ilmu Pangan</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="/ilmu-pangan/istilah-pangan/mengenal-senyawa-asam-dalam-kopi/" rel="bookmark" title="Mengenal Senyawa Asam dalam Kopi">Mengenal Senyawa Asam dalam Kopi</a></h3>            </div>
+        </div>
+        </div>
+<div class="td-mega-span">
+        <div class="td_module_mega_menu td-animation-stack td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="/asal-kamu-tahu/sejarah-gula-manisnya-perjalanan-gula-dari-masa-lalu-hingga-sekarang/" rel="bookmark" class="td-image-wrap " title="Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="Sejarah gula" title="Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang" data-type="image_tag" data-img-url="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2024/01/sugar-5040276_640-218x150.jpg" width="218" height="150"></a></div>                <a href="/category/asal-kamu-tahu/" class="td-post-category">Asal Kamu Tahu</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="/asal-kamu-tahu/sejarah-gula-manisnya-perjalanan-gula-dari-masa-lalu-hingga-sekarang/" rel="bookmark" title="Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang">Sejarah Gula: Manisnya Perjalanan Gula dari Masa Lalu Hingga Sekarang</a></h3>            </div>
+        </div>
+        </div>
+<div class="td-mega-span">
+        <div class="td_module_mega_menu td-animation-stack td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="/ilmu-pangan/istilah-pangan/dekafeinasi-kopi-nikmati-aroma-tanpa-kafein-yang-mengganggu/" rel="bookmark" class="td-image-wrap " title="Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="kopi dekafeinasi, kopi dekaf" title="Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu" data-type="image_tag" data-img-url="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2024/01/hot-coffee-3345394_1280-218x150.jpg" width="218" height="150"></a></div>                <a href="/category/ilmu-pangan/istilah-pangan/" class="td-post-category">Istilah Pangan</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="/ilmu-pangan/istilah-pangan/dekafeinasi-kopi-nikmati-aroma-tanpa-kafein-yang-mengganggu/" rel="bookmark" title="Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu">Dekafeinasi Kopi: Nikmati Aroma Tanpa Kafein yang Mengganggu</a></h3>            </div>
+        </div>
+        </div>
+<div class="td-mega-span">
+        <div class="td_module_mega_menu td-animation-stack td_mod_mega_menu">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="/ilmu-pangan/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan/" rel="bookmark" class="td-image-wrap " title="Konsep Dasar Evaluasi Sensoris untuk Industri Pangan"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANoAAACWAQMAAACCSQSPAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABpJREFUWMPtwQENAAAAwiD7p7bHBwwAAAAg7RD+AAGXD7BoAAAAAElFTkSuQmCC" alt="" title="Konsep Dasar Evaluasi Sensoris untuk Industri Pangan" data-type="image_tag" data-img-url="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2023/12/AI-Eskrim-Uji-Sensoris-218x150.jpeg" width="218" height="150"></a></div>                <a href="/category/ilmu-pangan/" class="td-post-category">Ilmu Pangan</a>            </div>
+
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="/ilmu-pangan/konsep-dasar-evaluasi-sensoris-untuk-industri-pangan/" rel="bookmark" title="Konsep Dasar Evaluasi Sensoris untuk Industri Pangan">Konsep Dasar Evaluasi Sensoris untuk Industri Pangan</a></h3>            </div>
+        </div>
+        </div>
+</div></div>
+<div class="td-next-prev-wrap">
+<a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_1" data-td_block_id="tdi_1"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#" class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_1" data-td_block_id="tdi_1"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a>
+</div>
+<div class="clearfix"></div>
+</div> <!-- ./block1 -->
+</div></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1011"><a href="/category/myth-or-fact/">Myth or Fact</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1012"><a href="/category/teknologi/">Teknologi</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1013"><a href="/category/tips-dan-trik/">Tips dan Trik</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-1014"><a href="/category/pangan-lokal/">Pangan Lokal</a></li>
+</ul></div>
+</div>
+
+
+    <div class="td-search-wrapper">
+        <div id="td-top-search">
+            <!-- Search -->
+            <div class="header-search-wrap">
+                <div class="dropdown header-search">
+                    <a id="td-header-search-button-mob" href="#" role="button" aria-label="Search" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-container-wrap ">
+        <div class="td-container td-header-row td-header-header">
+            <div class="td-header-sp-logo">
+                        <a class="td-main-logo" href="/">
+            <img class="td-retina-data lazyload" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-retina.png" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAABaAQAAAABYxTQGAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tB2+gAAAAHgMMTgABbAEeewAAAABJRU5ErkJggg==" alt="Panganpedia" title="Logo Panganpedia" width="272" height="90" data-src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-272px.png" decoding="async" data-eio-rwidth="272" data-eio-rheight="90"><noscript><img class="td-retina-data" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-retina.png" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-272px.png" alt="Panganpedia" title="Logo Panganpedia" width="272" height="90" data-eio="l"></noscript>
+            <span class="td-visual-hidden">Panganpedia</span>
+        </a>
+                </div>
+                    </div>
+    </div>
+
+</div>
+            </div>
+
+            
+<div class="td-main-content-wrap td-container-wrap">
+
+    <div class="td-container ">
+        <div class="td-crumb-container">
+            <div class="entry-crumbs">
+<span><a title="" class="entry-crumb" href="/">Home</a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Tags</span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last">Lolipop</span>
+</div>        </div>
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content">
+                            <div class="td-ss-main-content">
+                                <div class="td-page-header">
+                                    <h1 class="entry-title td-page-title">
+                                        <span>Tag: lolipop</span>
+                                    </h1>
+                                </div>
+                                
+
+	<div class="td-block-row">
+
+	<div class="td-block-span6">
+<!-- module -->
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="/asal-kamu-tahu/seberapa-lama-permen-lolipop-bertahan/" rel="bookmark" class="td-image-wrap " title="Dear Lolipoppers: Seberapa Banyak Jilatan yang Dibutuhkan dalam Sebuah Lolipop?"><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABGAQMAAAAASKMqAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABBJREFUKM9jGAWjYBQMKwAAA9QAAQWBn6cAAAAASUVORK5CYII=" alt="rahasia-lolipop" title="Dear Lolipoppers: Seberapa Banyak Jilatan yang Dibutuhkan dalam Sebuah Lolipop?" data-type="image_tag" data-img-url="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2015/12/1672203711_9cf6dede65_o-e1451006957741-100x70.jpg" width="100" height="70"></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="/asal-kamu-tahu/seberapa-lama-permen-lolipop-bertahan/" rel="bookmark" title="Dear Lolipoppers: Seberapa Banyak Jilatan yang Dibutuhkan dalam Sebuah Lolipop?">Dear Lolipoppers: Seberapa Banyak Jilatan yang Dibutuhkan dalam Sebuah Lolipop?</a></h3>            <div class="td-module-meta-info">
+                <a href="/category/asal-kamu-tahu/" class="td-post-category">Asal Kamu Tahu</a>                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2015-12-25T10:31:09+07:00">25/12/2015</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span6 -->
+</div>
+<!--./row-fluid-->                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar">
+                            <div class="td-ss-main-sidebar">
+                                                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+<!-- Instagram -->
+
+	
+	
+            <div class="tdc-footer-wrap ">
+
+                <!-- Footer -->
+				<div class="td-footer-wrapper td-footer-container td-container-wrap td-footer-template-4 ">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+                
+ <!-- A generated by theme --> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-footer_top tdi_4 td_block_template_1 ">
+
+<style>.tdi_4.td-a-rec{text-align:center}.tdi_4.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_4 .td-element-style{z-index:-1}.tdi_4.td-a-rec-img{text-align:left}.tdi_4.td-a-rec-img img{margin:0 auto 0 0}@media (max-width:767px){.tdi_4.td-a-rec-img{text-align:center}}</style>
+<script type="text/javascript">
+var td_screen_width = window.innerWidth;
+window.addEventListener("load", function(){            
+	            var placeAdEl = document.getElementById("td-ad-placeholder");
+			    if ( null !== placeAdEl && td_screen_width >= 1140 ) {
+			        
+			        /* large monitors */
+			        var adEl = document.createElement("ins");
+		            placeAdEl.replaceWith(adEl);	
+		            adEl.setAttribute("class", "adsbygoogle");
+		            adEl.setAttribute("style", "display:inline-block;width:728px;height:90px");	            		                
+		            adEl.setAttribute("data-ad-client", "ca-pub-6042229056820039");
+		            adEl.setAttribute("data-ad-slot", "1928312387");	            
+			        (adsbygoogle = window.adsbygoogle || []).push({});
+			    }
+			});window.addEventListener("load", function(){            
+	            var placeAdEl = document.getElementById("td-ad-placeholder");
+			    if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
+			    
+			        /* landscape tablets */
+			        var adEl = document.createElement("ins");
+		            placeAdEl.replaceWith(adEl);	
+		            adEl.setAttribute("class", "adsbygoogle");
+		            adEl.setAttribute("style", "display:inline-block;width:728px;height:90px");	            		                
+		            adEl.setAttribute("data-ad-client", "ca-pub-6042229056820039");
+		            adEl.setAttribute("data-ad-slot", "1928312387");	            
+			        (adsbygoogle = window.adsbygoogle || []).push({});
+			    }
+			});window.addEventListener("load", function(){            
+	            var placeAdEl = document.getElementById("td-ad-placeholder");
+			    if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
+			    
+			        /* portrait tablets */
+			        var adEl = document.createElement("ins");
+		            placeAdEl.replaceWith(adEl);	
+		            adEl.setAttribute("class", "adsbygoogle");
+		            adEl.setAttribute("style", "display:inline-block;width:728px;height:90px");	            		                
+		            adEl.setAttribute("data-ad-client", "ca-pub-6042229056820039");
+		            adEl.setAttribute("data-ad-slot", "1928312387");	            
+			        (adsbygoogle = window.adsbygoogle || []).push({});
+			    }
+			});window.addEventListener("load", function(){            
+	            var placeAdEl = document.getElementById("td-ad-placeholder");
+			    if ( null !== placeAdEl && td_screen_width < 768 ) {
+			    
+			        /* Phones */
+			        var adEl = document.createElement("ins");
+		            placeAdEl.replaceWith(adEl);	
+		            adEl.setAttribute("class", "adsbygoogle");
+		            adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");	            		                
+		            adEl.setAttribute("data-ad-client", "ca-pub-6042229056820039");
+		            adEl.setAttribute("data-ad-slot", "1928312387");	            
+			        (adsbygoogle = window.adsbygoogle || []).push({});
+			    }
+			});</script>
+<noscript id="td-ad-placeholder"></noscript>
+</div>
+
+ <!-- end A --> 
+
+		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+
+            <div class="td-pb-span12">
+                <div class="td-footer-info">
+<div class="footer-logo-wrap"><a href="/"><img class="td-retina-data lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAABaAQAAAABYxTQGAAAAAnRSTlMAAHaTzTgAAAAaSURBVEjH7cExAQAAAMKg9U9tB2+gAAAAHgMMTgABbAEeewAAAABJRU5ErkJggg==" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-retina.png" alt="Panganpedia" title="Logo Panganpedia" width="272" height="90" data-src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-272px.png" decoding="async" data-eio-rwidth="272" data-eio-rheight="90"><noscript><img class="td-retina-data" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-272px.png" data-retina="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/uploads/2016/01/Panganpedia-retina.png" alt="Panganpedia" title="Logo Panganpedia" width="272" height="90" data-eio="l"></noscript></a></div>
+<div class="footer-text-wrap">Panganpedia adalah Situs Informasi Pangan Terpercaya di Indonesia. Menyediakan beragam informasi makanan kesehatan, tips-tips tentang diet, mengupas tuntas informasi pangan yang menyesatkan, serta membahas hal-hal dasar tentang makanan dan yang terkait.<div class="footer-email-wrap">Contact us: <a href="mailto:contact@panganpedia.com">contact@panganpedia.com</a>
+</div>
+</div>
+<div class="footer-social-wrap td-social-style-2">
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/panganpedia" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+                <span style="display: none">Facebook</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.instagram.com/panganpedia" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+                <span style="display: none">Instagram</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="mailto:contact@panganpedia.com" title="Mail">
+                <i class="td-icon-font td-icon-mail-1"></i>
+                <span style="display: none">Mail</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.twitter.com/panganpedia" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+                <span style="display: none">Twitter</span>
+            </a>
+        </span>
+</div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+                <!-- Sub Footer -->
+				    <div class="td-sub-footer-container td-container-wrap ">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span td-sub-footer-menu">
+                    <div class="menu-bottom-menu-container"><ul id="menu-bottom-menu" class="td-subfooter-menu">
+<li id="menu-item-1088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-1088"><a href="/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-1089" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1089"><a href="/kebijakan-privasi/">Kebijakan Privasi</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-1021"><a href="/kontak/">Contact Us</a></li>
+</ul></div>                </div>
+
+                <div class="td-pb-span td-sub-footer-copy">
+                    &copy; Copyright 2016 -2021 - panganpedia.com                 </div>
+            </div>
+        </div>
+    </div>
+            </div>
+<!--close td-footer-wrap-->
+			
+
+</div>
+<!--close td-outer-wrap-->
+
+
+		<span class="ssp-id" style="display:none">599</span>
+		
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2023
+        Version: 12.6.3 (rara)
+        Deploy mode: deploy
+        
+        uid: 65e453321b415
+    -->
+
+    <div class="td-container">
+<amp-sticky-ad layout="nodisplay"><amp-ad data-ad-client="ca-pub-6042229056820039" data-ad-slot="5592197058" height="50" type="adsense" width="320"></amp-ad></amp-sticky-ad>
+</div>
+<script type="text/javascript" id="eio-lazy-load-js-before">
+/* <![CDATA[ */
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/wp/plugins/ewww-image-optimizer/tags/7.3.0/includes/lazysizes.min.js" id="eio-lazy-load-js" defer></script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/simply-static-pro/assets/ssp-form-webhook-public.js?ver=1.2.4.5" id="ssp-form-webhook-public-js" defer></script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/simply-static-pro/assets/fuse.js?ver=6.4.3" id="ssp-fuse-js" defer></script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/simply-static-pro/assets/ssp-search.js?ver=1.2.4.5" id="ssp-search-js" defer></script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=12.6.3" id="td-site-min-js" defer></script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdSmartSidebar.js?ver=12.6.3" id="tdSmartSidebar-js" defer></script>
+<script type="text/javascript" id="perfmatters-lazy-load-js-before">
+/* <![CDATA[ */
+window.lazyLoadOptions={elements_selector:"img[data-src],.perfmatters-lazy,.perfmatters-lazy-css-bg",thresholds:"0px 0px",class_loading:"pmloading",class_loaded:"pmloaded",callback_loaded:function(element){if(element.tagName==="IFRAME"){if(element.classList.contains("pmloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener("LazyLoad::Initialized",function(e){var lazyLoadInstance=e.detail.instance;var target=document.querySelector("body");var observer=new MutationObserver(function(mutations){lazyLoadInstance.update()});var config={childList:!0,subtree:!0};observer.observe(target,config);});
+/* ]]> */
+</script>
+<script type="text/javascript" async src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/perfmatters/js/lazyload.min.js?ver=2.2.4" id="perfmatters-lazy-load-js"></script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=6cc04771d778c6f460cf525df52258a3" id="tdb_js_files_for_front-js" defer></script>
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.9" id="heartbeat-js" defer></script>
+<script type="text/javascript" async data-no-optimize="1" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/perfmatters/vendor/instant-page/pminstantpage.min.js?ver=2.2.4" id="perfmatters-instant-page-js"></script>
+<script type="text/javascript" id="add_linkoncopy-js-extra">
+/* <![CDATA[ */
+var astx_add_link_copied_text = {"readmore":"Baca artikel selengkapnya di Panganpedia.","addlinktosite":"","addsitename":"","breaks":"2","cleartext":"","reloption":"na","replaced_text":"","target":"1","usesitenameaslink":"1","usetitle":"","sitename":"Panganpedia","siteurl":"","frontpage":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/wp/plugins/add-link-to-copied-text/tags/2.0/assets/add_link.js" id="add_linkoncopy-js" defer></script>
+
+
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLoadingBox.js?ver=12.6.3" id="tdLoadingBox-js" defer></script>
+
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdDatei18n.js?ver=12.6.3" id="tdDatei18n-js" defer></script>
+
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAjaxSearch.js?ver=12.6.3" id="tdAjaxSearch-js" defer></script>
+
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLogin.js?ver=12.6.3" id="tdLogin-js" defer></script>
+
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdInfiniteLoader.js?ver=12.6.3" id="tdInfiniteLoader-js" defer></script>
+
+<script type="text/javascript" src="https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tdMenu.js?ver=12.6.3" id="tdMenu-js" defer></script>
+<!-- JS generated by theme -->
+
+<script></script>
+
+
+<script>var td_res_context_registered_atts=[];</script>
+<script id="webpushr-script">(function(w,d, s, id) {w.webpushr=w.webpushr||function(){(w.webpushr.q=w.webpushr.q||[]).push(arguments)};var js, fjs = d.getElementsByTagName(s)[0];js = d.createElement(s); js.async=1; js.id = id;js.src = "https://cdn.webpushr.com/app.min.js";
+d.body.appendChild(js);}(window,document, 'script', 'webpushr-jssdk'));
+	webpushr('setup',{'key':'BPwAyYTOaqYhQcA8ND8Vpb83PYR7xwWGQJDF4RpasvqXCUv0Qv93DCxZYh3fUqW31vUxVvCmH-X4M_MeYZr2o-c','sw':'https://1ovdbngo4smbx.cdn.shift8web.com/wp-content/plugins/webpushr-web-push-notifications/sdk_files/webpushr-sw.js.php'});</script>
+	
+<script id="perfmatters-delayed-scripts-js">const pmDelayClick=false;const pmUserInteractions=["keydown","mousedown","mousemove","wheel","touchmove","touchstart","touchend"],pmDelayedScripts={normal:[],defer:[],async:[]},jQueriesArray=[],pmInterceptedClicks=[];var pmDOMLoaded=!1,pmClickTarget="";function pmTriggerDOMListener(){"undefined"!=typeof pmDelayTimer&&clearTimeout(pmDelayTimer),pmUserInteractions.forEach(function(e){window.removeEventListener(e,pmTriggerDOMListener,{passive:!0})}),document.removeEventListener("visibilitychange",pmTriggerDOMListener),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",pmTriggerDelayedScripts):pmTriggerDelayedScripts()}async function pmTriggerDelayedScripts(){pmDelayEventListeners(),pmDelayJQueryReady(),pmProcessDocumentWrite(),pmSortDelayedScripts(),pmPreloadDelayedScripts(),await pmLoadDelayedScripts(pmDelayedScripts.normal),await pmLoadDelayedScripts(pmDelayedScripts.defer),await pmLoadDelayedScripts(pmDelayedScripts.async),await pmTriggerEventListeners(),document.querySelectorAll("link[data-pmdelayedstyle]").forEach(function(e){e.setAttribute("href",e.getAttribute("data-pmdelayedstyle"))}),window.dispatchEvent(new Event("perfmatters-allScriptsLoaded")),pmReplayClicks()}function pmDelayEventListeners(){let e={};function t(t,r){function n(r){return e[t].delayedEvents.indexOf(r)>=0?"perfmatters-"+r:r}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},delayedEvents:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)}),e[t].delayedEvents.push(r)}function r(e,t){let r=e[t];Object.defineProperty(e,t,{get:r||function(){},set:function(r){e["perfmatters"+t]=r}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),r(document,"onreadystatechange"),r(window,"onload"),r(window,"onpageshow")}function pmDelayJQueryReady(){let e=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>e,set(t){if(t&&t.fn&&!jQueriesArray.includes(t)){t.fn.ready=t.fn.init.prototype.ready=function(e){pmDOMLoaded?e.bind(document)(t):document.addEventListener("perfmatters-DOMContentLoaded",function(){e.bind(document)(t)})};let r=t.fn.on;t.fn.on=t.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e=(e=(e=e.split(" ")).map(function(e){return"load"===e||0===e.indexOf("load.")?"perfmatters-jquery-load":e})).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(function(t){delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]})}return r.apply(this,arguments),this},jQueriesArray.push(t)}e=t}})}function pmProcessDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){var r=document.currentScript,n=document.createRange();let a=e.get(r);void 0===a&&(a=r.nextSibling,e.set(r,a));var i=document.createDocumentFragment();n.setStart(i,0),i.appendChild(n.createContextualFragment(t)),r.parentElement.insertBefore(i,a)}}function pmSortDelayedScripts(){document.querySelectorAll("script[type=pmdelayedscript]").forEach(function(e){e.hasAttribute("src")?e.hasAttribute("defer")&&!1!==e.defer?pmDelayedScripts.defer.push(e):e.hasAttribute("async")&&!1!==e.async?pmDelayedScripts.async.push(e):pmDelayedScripts.normal.push(e):pmDelayedScripts.normal.push(e)})}function pmPreloadDelayedScripts(){var e=document.createDocumentFragment();[...pmDelayedScripts.normal,...pmDelayedScripts.defer,...pmDelayedScripts.async].forEach(function(t){var r=t.getAttribute("src");if(r){var n=document.createElement("link");n.href=r,n.rel="preload",n.as="script",e.appendChild(n)}}),document.head.appendChild(e)}async function pmLoadDelayedScripts(e){var t=e.shift();return t?(await pmReplaceScript(t),pmLoadDelayedScripts(e)):Promise.resolve()}async function pmReplaceScript(e){return await pmNextFrame(),new Promise(function(t){let r=document.createElement("script");[...e.attributes].forEach(function(e){let t=e.nodeName;"type"!==t&&("data-type"===t&&(t="type"),r.setAttribute(t,e.nodeValue))}),e.hasAttribute("src")?(r.addEventListener("load",t),r.addEventListener("error",t)):(r.text=e.text,t()),e.parentNode.replaceChild(r,e)})}async function pmTriggerEventListeners(){pmDOMLoaded=!0,await pmNextFrame(),document.dispatchEvent(new Event("perfmatters-DOMContentLoaded")),await pmNextFrame(),window.dispatchEvent(new Event("perfmatters-DOMContentLoaded")),await pmNextFrame(),document.dispatchEvent(new Event("perfmatters-readystatechange")),await pmNextFrame(),document.perfmattersonreadystatechange&&document.perfmattersonreadystatechange(),await pmNextFrame(),window.dispatchEvent(new Event("perfmatters-load")),await pmNextFrame(),window.perfmattersonload&&window.perfmattersonload(),await pmNextFrame(),jQueriesArray.forEach(function(e){e(window).trigger("perfmatters-jquery-load")});let e=new Event("perfmatters-pageshow");e.persisted=window.pmPersisted,window.dispatchEvent(e),await pmNextFrame(),window.perfmattersonpageshow&&window.perfmattersonpageshow({persisted:window.pmPersisted})}async function pmNextFrame(){return new Promise(function(e){requestAnimationFrame(e)})}function pmClickHandler(e){e.target.removeEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"pm-onclick","onclick"),pmInterceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}function pmReplayClicks(){window.removeEventListener("touchstart",pmTouchStartHandler,{passive:!0}),window.removeEventListener("mousedown",pmTouchStartHandler),pmInterceptedClicks.forEach(e=>{e.target.outerHTML===pmClickTarget&&e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}function pmTouchStartHandler(e){"HTML"!==e.target.tagName&&(pmClickTarget||(pmClickTarget=e.target.outerHTML),window.addEventListener("touchend",pmTouchEndHandler),window.addEventListener("mouseup",pmTouchEndHandler),window.addEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.addEventListener("mousemove",pmTouchMoveHandler),e.target.addEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"onclick","pm-onclick"))}function pmTouchMoveHandler(e){window.removeEventListener("touchend",pmTouchEndHandler),window.removeEventListener("mouseup",pmTouchEndHandler),window.removeEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",pmTouchMoveHandler),e.target.removeEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"pm-onclick","onclick")}function pmTouchEndHandler(e){window.removeEventListener("touchend",pmTouchEndHandler),window.removeEventListener("mouseup",pmTouchEndHandler),window.removeEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",pmTouchMoveHandler)}function pmRenameDOMAttribute(e,t,r){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(r,event.target.getAttribute(t)),event.target.removeAttribute(t))}window.addEventListener("pageshow",e=>{window.pmPersisted=e.persisted}),pmUserInteractions.forEach(function(e){window.addEventListener(e,pmTriggerDOMListener,{passive:!0})}),pmDelayClick&&(window.addEventListener("touchstart",pmTouchStartHandler,{passive:!0}),window.addEventListener("mousedown",pmTouchStartHandler)),document.addEventListener("visibilitychange",pmTriggerDOMListener);</script>
+</body>
+</html>

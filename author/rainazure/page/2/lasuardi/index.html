@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=http://panganpedia.com/tdb_templates/author-template-parenting/">
+		<meta http-equiv="refresh" content="0;url=https://panganpedia.local/tdb_templates/author-template-parenting/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "http://panganpedia.com/tdb_templates/author-template-parenting/";
+			window.location = "https://panganpedia.local/tdb_templates/author-template-parenting/";
 		</script>
 
-		<p>You are being redirected to <a href="http://panganpedia.com/tdb_templates/author-template-parenting/">http://panganpedia.com/tdb_templates/author-template-parenting/</a></p>
+		<p>You are being redirected to <a href="https://panganpedia.local/tdb_templates/author-template-parenting/">https://panganpedia.local/tdb_templates/author-template-parenting/</a></p>
 	</body>
 </html>

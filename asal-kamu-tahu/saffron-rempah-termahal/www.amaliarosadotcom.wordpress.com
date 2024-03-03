@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=http://panganpedia.com/asal-kamu-tahu/saffron-rempah-termahal/">
+		<meta http-equiv="refresh" content="0;url=https://panganpedia.local/asal-kamu-tahu/saffron-rempah-termahal/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "http://panganpedia.com/asal-kamu-tahu/saffron-rempah-termahal/";
+			window.location = "https://panganpedia.local/asal-kamu-tahu/saffron-rempah-termahal/";
 		</script>
 
-		<p>You are being redirected to <a href="http://panganpedia.com/asal-kamu-tahu/saffron-rempah-termahal/">http://panganpedia.com/asal-kamu-tahu/saffron-rempah-termahal/</a></p>
+		<p>You are being redirected to <a href="https://panganpedia.local/asal-kamu-tahu/saffron-rempah-termahal/">https://panganpedia.local/asal-kamu-tahu/saffron-rempah-termahal/</a></p>
 	</body>
 </html>
