@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://panganpedia.local/tds-checkout/">
+		<meta http-equiv="refresh" content="0;url=/tds-checkout/">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://panganpedia.local/tds-checkout/";
+			window.location = "/tds-checkout/";
 		</script>
 
-		<p>You are being redirected to <a href="https://panganpedia.local/tds-checkout/">https://panganpedia.local/tds-checkout/</a></p>
+		<p>You are being redirected to <a href="/tds-checkout/">/tds-checkout/</a></p>
 	</body>
 </html>
