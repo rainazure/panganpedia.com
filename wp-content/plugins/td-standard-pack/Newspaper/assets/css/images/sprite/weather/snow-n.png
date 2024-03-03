@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://panganpedia.com/tds-my-account/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://panganpedia.com/tds-my-account/";
+		</script>
+
+		<p>You are being redirected to <a href="http://panganpedia.com/tds-my-account/">http://panganpedia.com/tds-my-account/</a></p>
+	</body>
+</html>
