@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>D-value | Panganpedia</title>
+	<atom:link href="/tag/d-value/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/d-value/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:13:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>D-value | Panganpedia</title>
+	<link>/tag/d-value/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mengenal Konsep D-Value</title>
+		<link>/ilmu-pangan/mengenal-konsep-d-value/</link>
+					<comments>/ilmu-pangan/mengenal-konsep-d-value/#respond</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2015 00:36:42 +0000</pubDate>
+				<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[D-value]]></category>
+		<category><![CDATA[mikrobiologi]]></category>
+		<guid isPermaLink="false">http://www.panganpedia.com/?p=107</guid>
+
+					<description><![CDATA[<p>panganpedia &#8211; Ilmu mikrobiologi adalah ilmu yang sangat vital dalam bidang teknologi pangan. Betapa tidak, faktor maha penting yang mutlak ada dalam produk pangan adalah keamanannya. Kalo produk pangan terkontaminasi mikroba dengan jumlah yang wow, tentu sangat berpotensi membahayakan kesehatan kita. Bagaimana cara kita mengetahui bahwa produk pangan kita aman bagi kesehatan? Salah satunya adalah [&#8230;]</p>
+<p>The post <a href="/ilmu-pangan/mengenal-konsep-d-value/">Mengenal Konsep D-Value</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ilmu-pangan/mengenal-konsep-d-value/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

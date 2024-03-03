@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kalsium | Panganpedia</title>
+	<atom:link href="/tag/kalsium/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/kalsium/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Mon, 17 Oct 2016 08:08:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>kalsium | Panganpedia</title>
+	<link>/tag/kalsium/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Benarkah Terlalu Banyak Kopi Menyebabkan Tulang Keropos?</title>
+		<link>/myth-or-fact/benarkah-terlalu-banyak-kopi-menyebabkan-tulang-keropos/</link>
+					<comments>/myth-or-fact/benarkah-terlalu-banyak-kopi-menyebabkan-tulang-keropos/#respond</comments>
+		
+		<dc:creator><![CDATA[Nita Maria Rosiana]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 13:40:01 +0000</pubDate>
+				<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[Myth or Fact]]></category>
+		<category><![CDATA[kalsium]]></category>
+		<category><![CDATA[kopi]]></category>
+		<category><![CDATA[minuman]]></category>
+		<category><![CDATA[tulang keropos]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1502</guid>
+
+					<description><![CDATA[<p>Beberapa studi yang dilakukan ternyata memiliki hasil yang mengejutkan. Faktanya, minum kopi tiap hari memang nikmat. Tapi ternyata, terlalu banyak minum kopi menyebabkan tulang keropos. </p>
+<p>The post <a href="/myth-or-fact/benarkah-terlalu-banyak-kopi-menyebabkan-tulang-keropos/">Benarkah Terlalu Banyak Kopi Menyebabkan Tulang Keropos?</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/myth-or-fact/benarkah-terlalu-banyak-kopi-menyebabkan-tulang-keropos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Susu Fermentasi, Apa Manfaatnya bagi Tubuh?</title>
+		<link>/asal-kamu-tahu/susu-fermentasi-manfaat/</link>
+					<comments>/asal-kamu-tahu/susu-fermentasi-manfaat/#respond</comments>
+		
+		<dc:creator><![CDATA[Nita Maria Rosiana]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2016 04:40:50 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[bakteri]]></category>
+		<category><![CDATA[fermentasi]]></category>
+		<category><![CDATA[kalsium]]></category>
+		<category><![CDATA[kefir]]></category>
+		<category><![CDATA[susu]]></category>
+		<category><![CDATA[susu basi]]></category>
+		<category><![CDATA[susu fermentasi]]></category>
+		<category><![CDATA[vitamin]]></category>
+		<category><![CDATA[yeast]]></category>
+		<category><![CDATA[yogurt]]></category>
+		<category><![CDATA[zat gizi]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1412</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Susu merupakan salah satu jenis bahan makanan yang bergizi tinggi karena mengandung protein, lemak, karbohidrat, mineral dan vitamin. Zat gizi tersebut terkandung lengkap dan seimbang yang dibutuhkan oleh manusia.  Kandungan air dalam susu sangat tinggi yaitu sekitar 87,5% dengan kandungan laktosa sekitar 5%, protein sekitar 3,5% dan lemak sekitar 3-4%. Mutu protein susu [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/susu-fermentasi-manfaat/">Susu Fermentasi, Apa Manfaatnya bagi Tubuh?</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/susu-fermentasi-manfaat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

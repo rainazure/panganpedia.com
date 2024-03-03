@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>oatmeal | Panganpedia</title>
+	<atom:link href="/tag/oatmeal/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/oatmeal/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:14:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>oatmeal | Panganpedia</title>
+	<link>/tag/oatmeal/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Manfaat Oatmeal Tak Hanya Untuk Penderita Jantung</title>
+		<link>/asal-kamu-tahu/manfaat-oatmeal/</link>
+					<comments>/asal-kamu-tahu/manfaat-oatmeal/#comments</comments>
+		
+		<dc:creator><![CDATA[Kurnia Utami]]></dc:creator>
+		<pubDate>Sat, 05 Dec 2015 07:58:16 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[Myth or Fact]]></category>
+		<category><![CDATA[kolesterol]]></category>
+		<category><![CDATA[oatmeal]]></category>
+		<category><![CDATA[obesitas]]></category>
+		<category><![CDATA[serat]]></category>
+		<guid isPermaLink="false">http://www.panganpedia.com/?p=184</guid>
+
+					<description><![CDATA[<p>panganpedia &#8211; Mendengar kata oatmeal, dalam benak Anda tentu terlintas bahwa makanan produk gandum tersebut hanya dikhususkan untuk para penderita diabetes, kolesterol, serta penyakit jantung. Mengkonsumsi oatmeal memang sangat direkomendasikan oleh praktisi medis dan ahli gizi bagi para penderita diabetes, kolestrol dan penyakit jantung. Namun, bukan berarti bahwa kita sebagai orang yang sehat tidak disarankan [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/manfaat-oatmeal/">Manfaat Oatmeal Tak Hanya Untuk Penderita Jantung</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/manfaat-oatmeal/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

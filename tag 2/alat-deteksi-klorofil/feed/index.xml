@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>alat deteksi klorofil | Panganpedia</title>
+	<atom:link href="/tag/alat-deteksi-klorofil/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/alat-deteksi-klorofil/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Wed, 23 Nov 2016 05:00:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>alat deteksi klorofil | Panganpedia</title>
+	<link>/tag/alat-deteksi-klorofil/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mahasiswa MIT Ciptakan Alat Pendeteksi Kematangan Apel</title>
+		<link>/teknologi/alat-pendeteksi-kematangan-buah/</link>
+					<comments>/teknologi/alat-pendeteksi-kematangan-buah/#respond</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Wed, 23 Nov 2016 04:16:46 +0000</pubDate>
+				<category><![CDATA[Teknologi]]></category>
+		<category><![CDATA[alat deteksi kematangan buah]]></category>
+		<category><![CDATA[alat deteksi klorofil]]></category>
+		<category><![CDATA[apel]]></category>
+		<category><![CDATA[buah]]></category>
+		<category><![CDATA[buah apel]]></category>
+		<category><![CDATA[klorofil]]></category>
+		<category><![CDATA[sayuran]]></category>
+		<category><![CDATA[spektrofotometer]]></category>
+		<category><![CDATA[spektrometer]]></category>
+		<category><![CDATA[uji firmness]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1725</guid>
+
+					<description><![CDATA[<p>Mengetahui kematangan apel kadang menjadi hal yang sulit terutama jika hanya mengandalkan penglihatan. Kini, ada teknologi yang memudahkan kita dalam mengetahui kematangan apel. Seorang mahasiswa MIT telah menciptakan alat yang dapat memberitahu tingkat kematangan buah dengan mengukur kadar klorofil pada kulit buah dengan menggunakan sinar ultraviolet. Demikian penelitian Das et al. diulas dalam Scientific Reports. Ukuran [&#8230;]</p>
+<p>The post <a href="/teknologi/alat-pendeteksi-kematangan-buah/">Mahasiswa MIT Ciptakan Alat Pendeteksi Kematangan Apel</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/teknologi/alat-pendeteksi-kematangan-buah/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nacl | Panganpedia</title>
+	<atom:link href="/tag/nacl/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/nacl/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 30 Dec 2017 14:15:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>nacl | Panganpedia</title>
+	<link>/tag/nacl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mengenal Beda Proses Produksi Garam di Indonesia dan Luar Negeri</title>
+		<link>/teknologi/mengenal-beda-proses-produksi-garam-di-indonesia-dan-luar-negeri/</link>
+					<comments>/teknologi/mengenal-beda-proses-produksi-garam-di-indonesia-dan-luar-negeri/#respond</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Fri, 24 Nov 2017 04:02:43 +0000</pubDate>
+				<category><![CDATA[Teknologi]]></category>
+		<category><![CDATA[garam]]></category>
+		<category><![CDATA[garam beriodium]]></category>
+		<category><![CDATA[garam beryodium]]></category>
+		<category><![CDATA[garam indonesia]]></category>
+		<category><![CDATA[garam luar negeri]]></category>
+		<category><![CDATA[indonesia]]></category>
+		<category><![CDATA[iodium]]></category>
+		<category><![CDATA[nacl]]></category>
+		<category><![CDATA[produksi]]></category>
+		<category><![CDATA[proses produksi garam]]></category>
+		<category><![CDATA[tambak]]></category>
+		<category><![CDATA[tambak garam]]></category>
+		<category><![CDATA[tambang garam]]></category>
+		<guid isPermaLink="false">https://panganpedia.com/?p=2735</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Berapa banyak tahapan yang dilalui garam dari lautan hingga sampai ke depan meja Anda? Mungkin tidak banyak dari Anda yang peduli, dan baru &#8216;ngeh&#8217; saat harga garam melambung tinggi, seperti terjadi sejak Agustus lalu. Dengan mempelajari proses produksi garam, maka kita bisa memahami apa yang sebenarnya terjadi pada harga garam di Indonesia. Yuk [&#8230;]</p>
+<p>The post <a href="/teknologi/mengenal-beda-proses-produksi-garam-di-indonesia-dan-luar-negeri/">Mengenal Beda Proses Produksi Garam di Indonesia dan Luar Negeri</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/teknologi/mengenal-beda-proses-produksi-garam-di-indonesia-dan-luar-negeri/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

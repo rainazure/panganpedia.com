@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lele jorok | Panganpedia</title>
+	<atom:link href="/tag/lele-jorok/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/lele-jorok/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:15:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>lele jorok | Panganpedia</title>
+	<link>/tag/lele-jorok/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Benarkah Ikan Lele Mengandung 3000 Sel Kanker?</title>
+		<link>/myth-or-fact/benarkah-ikan-lele-mengandung-3000-sel-kanker/</link>
+					<comments>/myth-or-fact/benarkah-ikan-lele-mengandung-3000-sel-kanker/#comments</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2015 05:00:18 +0000</pubDate>
+				<category><![CDATA[Myth or Fact]]></category>
+		<category><![CDATA[budidaya lele]]></category>
+		<category><![CDATA[lele]]></category>
+		<category><![CDATA[lele dumbo]]></category>
+		<category><![CDATA[lele jorok]]></category>
+		<guid isPermaLink="false">http://www.panganpedia.com/?p=351</guid>
+
+					<description><![CDATA[<p>panganpedia – Sejak sebulan lalu, berita mengenai ikan lele yang disinyalir mengandung 3000 sel kanker berkembang pesat. Di dalam berita yang beredar, diketahui bahwa ikan lele di Haikou, provinsi Hainan, Cina tersebut dibudidayakan di sebuah kolam dengan sampah berbau menyengat, dilingkari kandang babi dan ayam. Lalu, apakah benar ikan lele mengandung 3000 sel kanker ? [&#8230;]</p>
+<p>The post <a href="/myth-or-fact/benarkah-ikan-lele-mengandung-3000-sel-kanker/">Benarkah Ikan Lele Mengandung 3000 Sel Kanker?</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/myth-or-fact/benarkah-ikan-lele-mengandung-3000-sel-kanker/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

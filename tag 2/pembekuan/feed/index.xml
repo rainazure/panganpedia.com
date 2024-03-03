@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pembekuan | Panganpedia</title>
+	<atom:link href="/tag/pembekuan/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/pembekuan/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:17:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>pembekuan | Panganpedia</title>
+	<link>/tag/pembekuan/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tips Cepat Memilih Frozen Food</title>
+		<link>/tips-dan-trik/tips-memilih-makanan-beku/</link>
+					<comments>/tips-dan-trik/tips-memilih-makanan-beku/#comments</comments>
+		
+		<dc:creator><![CDATA[Nana Aprilia]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2016 02:51:57 +0000</pubDate>
+				<category><![CDATA[Tips dan Trik]]></category>
+		<category><![CDATA[frozen food]]></category>
+		<category><![CDATA[nugget]]></category>
+		<category><![CDATA[pangan beku]]></category>
+		<category><![CDATA[pembekuan]]></category>
+		<category><![CDATA[pendinginan]]></category>
+		<category><![CDATA[seafood]]></category>
+		<category><![CDATA[teknologi]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=696</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Tuntutan gaya hidup yang serba cepat dan serba praktis  membuat sebagian besar orang lebih memilih produk makanan yang siap masak seperti frozen food atau makanan beku. Permintan konsumen terhadap produk makanan beku terus mengalami peningkatan. Peningkatan terjadi karena pangan beku masih dianggap sehat karena tidak mengandung pengawet (Estiasih dan Ahmadi, 2009). Banyaknya produsen [&#8230;]</p>
+<p>The post <a href="/tips-dan-trik/tips-memilih-makanan-beku/">Tips Cepat Memilih Frozen Food</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/tips-dan-trik/tips-memilih-makanan-beku/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

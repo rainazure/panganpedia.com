@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ikan laut | Panganpedia</title>
+	<atom:link href="/tag/ikan-laut/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/ikan-laut/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Sat, 12 Nov 2016 08:20:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>ikan laut | Panganpedia</title>
+	<link>/tag/ikan-laut/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Yakin Vitamin D Ada dalam Sinar Matahari? Begini Penjelasannya…</title>
+		<link>/ilmu-pangan/vitamin-d-ada-dalam-sinar-matahari/</link>
+					<comments>/ilmu-pangan/vitamin-d-ada-dalam-sinar-matahari/#comments</comments>
+		
+		<dc:creator><![CDATA[fesdila]]></dc:creator>
+		<pubDate>Sat, 23 Apr 2016 01:00:51 +0000</pubDate>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Ilmu Pangan]]></category>
+		<category><![CDATA[Istilah Pangan]]></category>
+		<category><![CDATA[ikan]]></category>
+		<category><![CDATA[ikan laut]]></category>
+		<category><![CDATA[jamur]]></category>
+		<category><![CDATA[kuning telur]]></category>
+		<category><![CDATA[sinar matahari]]></category>
+		<category><![CDATA[sinar uv]]></category>
+		<category><![CDATA[susu]]></category>
+		<category><![CDATA[vitamin]]></category>
+		<category><![CDATA[vitamin D]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1279</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Seringkali kita menemui  bayi yang diajak berjalan-jalan untuk mendapat sinar matahari pagi dengan alasan untuk mendapatkan vitamin D. Tidak jarang juga, kita menyebutkan bahwa penyakit rakhitis (yang menyebabkan kaki berbentuk X tau O, red.) disebabkan karena kurang mendapat sinar matahari pagi yang mengandung vitamin D. Tapi apa benar di dalam sinar matahari mengandung [&#8230;]</p>
+<p>The post <a href="/ilmu-pangan/vitamin-d-ada-dalam-sinar-matahari/">Yakin Vitamin D Ada dalam Sinar Matahari? Begini Penjelasannya…</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/ilmu-pangan/vitamin-d-ada-dalam-sinar-matahari/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pet food | Panganpedia</title>
+	<atom:link href="/tag/pet-food/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/pet-food/</link>
+	<description>Situs Informasi Pangan Indonesia Terpercaya</description>
+	<lastBuildDate>Thu, 23 Mar 2017 06:24:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2015/12/cropped-logo-512-150x150.png</url>
+	<title>pet food | Panganpedia</title>
+	<link>/tag/pet-food/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apakah Pet Food Bisa Dimakan Manusia?</title>
+		<link>/asal-kamu-tahu/apakah-pet-food-bisa-dimakan-manusia/</link>
+					<comments>/asal-kamu-tahu/apakah-pet-food-bisa-dimakan-manusia/#respond</comments>
+		
+		<dc:creator><![CDATA[Hesti Ayuningtyas]]></dc:creator>
+		<pubDate>Tue, 14 Mar 2017 09:27:26 +0000</pubDate>
+				<category><![CDATA[Asal Kamu Tahu]]></category>
+		<category><![CDATA[halal]]></category>
+		<category><![CDATA[makanan hewan]]></category>
+		<category><![CDATA[pet food]]></category>
+		<guid isPermaLink="false">https://www.panganpedia.com/?p=1939</guid>
+
+					<description><![CDATA[<p>Panganpedia &#8211; Fendy (bukan nama sebenarnya, red.) penasaran dengan pertanyaan ini. Awalnya, ia membeli sekotak makanan kucing pabrikan untuk kucing anggoranya. Gara-gara bentuknya yang mirip biskuit, ia jadi penasaran. Apakah pet food aman dikonsumsi manusia? demikian pertanyaan Fendy. Untuk menjawab pertanyaan ini, Panganpedia kemudian bertanya pada drh. Chaula Agustiza Kandiana, seorang dokter hewan yang bekerja [&#8230;]</p>
+<p>The post <a href="/asal-kamu-tahu/apakah-pet-food-bisa-dimakan-manusia/">Apakah Pet Food Bisa Dimakan Manusia?</a> appeared first on <a href="/">Panganpedia</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/asal-kamu-tahu/apakah-pet-food-bisa-dimakan-manusia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
